@@ -3226,3 +3226,8 @@ input, select, textarea {
 			}
 
 	}
+	
+	
+tt {
+  font-family: "Lucida Console", "Menlo", "Monaco", "Courier", monospace;
+}
