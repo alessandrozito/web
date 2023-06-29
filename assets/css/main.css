@@ -2143,7 +2143,7 @@ input, select, textarea {
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 120%;
 			}
 
 /* List */
@@ -2205,7 +2205,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 1.5em;
+				font-size: 3em;
 			}
 
 /* Labeled Icons */
@@ -2596,15 +2596,15 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("../../images/Painting.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								180%;
+		background-size: auto,							180%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
-		width: 35%;
+		width: 32%;
 	}
 
 		#header > * {
@@ -2632,25 +2632,32 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.8);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
 		}
 
+    #header h1_g {
+			color: rgba(255, 255, 255, 1);
+			font-size: 2em;
+			line-height: 1.75em;
+			margin: 0;
+		}
+		
 		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 10em;
+			margin: 0 1em 1em 0;
+			width: 12em;
 		}
 
 /* Footer */
 
 	#footer .icons {
-		margin: 1em 0 0 0;
+		margin: 4em 0 0 0;
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 1);
 		}
 
 	#footer .copyright {
