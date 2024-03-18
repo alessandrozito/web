@@ -98,10 +98,10 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: black;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 16pt;
-		font-weight: 400;
+		font-size: 20pt;
+		font-weight: 500;
 		line-height: 1.75em;
 	}
 
@@ -111,18 +111,18 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: firebrick;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: firebrick !important;
 			text-decoration: none;
 		}
 
 	strong, b {
-		color: #787878;
+		color: black;
 		font-weight: 400;
 	}
 
@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -147,27 +147,27 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 2.5em;
 		line-height: 1.5em;
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2em;
 		line-height: 1.5em;
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
 	h5 {
-		font-size: 0.9em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -2593,7 +2593,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/Painting.jpg");
+		background-image: url("images/overlay.png"), url("../../images/Painting2.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,							180%;
