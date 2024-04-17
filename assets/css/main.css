@@ -2596,11 +2596,11 @@ input, select, textarea {
 		background-image:  url("images/overlay.png"), url("../../images/landscape.jpeg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,							180%;
+		background-size: auto,							200%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 8em 2em;
 		position: fixed;
 		text-align: center;
 		top: 0;
@@ -2967,7 +2967,7 @@ input, select, textarea {
 /* Touch */
 
 	body.is-touch .image.thumb:before {
-		opacity: 0.5 !important;
+		opacity: 0.2 !important;
 	}
 
 	body.is-touch .image.thumb:after {
