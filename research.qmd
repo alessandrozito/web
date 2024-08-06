@@ -1,6 +1,6 @@
 ## Research highlights {.central}
 
-I am strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusion.
+I am strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusions.
 
 My current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis.
 

@@ -1,4 +1,4 @@
-### Highlight
+### Highlights
 
 In my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.
 
