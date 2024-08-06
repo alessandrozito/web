@@ -1,0 +1,45 @@
+## Research highlights {.central}
+
+I sam strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusion.
+
+Mys current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis.
+
+During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
+
+[Ph.D. Dissertation](files/thesis.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Dissertation"} [Ph.D. defense slides](files/defense.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Defense slides"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Google scholar"}
+
+## Publications and manuscripts {.central}
+
+#### [Preprints]{.blue} {.central}
+
+1.  **Zito, A.** and Miller, J. W. (2024+). Compressive Bayesian non-negative matrix factorization for mutational signature analysis. *Submitted, awaiting decision*. [\[ArXiv\]](https://arxiv.org/abs/2404.10974) [\[GitHub\]](https://github.com/alessandrozito/CompressiveNMF)
+
+2.  Lee, C. J., **Zito, A.**, Sang, H., and Dunson, D. B. (2024+). Logistic-Beta Processes for dependent random probabilities with beta marginals. *Submitted, awaiting decision*. [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
+
+3.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023+). Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. *Submitted major revision, awaiting decision*. [\[ArXiv\]](https://arxiv.org/pdf/2306.02360.pdf) [\[R Package\]](https://github.com/alessandrozito/ConjugateDP)
+
+4.  Richardson, L.\*, **Zito, A.**\*, Greaves, D., and Soriano, J. (2023+). Pareto optimal proxy metrics. *Received major revision*. [\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
+
+------------------------------------------------------------------------
+
+#### [Articles in refereed journals]{.blue} {.central}
+
+1.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023). Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. *Methods in Ecology and Evolution*, **14**, 529--542. [\[Pub\]](https://doi.org/10.1111/2041-210X.14009) [\[ArXiv\]](https://arxiv.org/abs/2201.09782) [\[Code\]](https://doi.org/10.5281/zenodo.7150668) [\[R package\]](https://github.com/alessandrozito/BayesANT). [Best poster award at IBSA2022 world meeting.]{.orange}
+
+2.  **Zito, A.**, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). Bayesian modeling of sequential discoveries. *Journal of the American Statistical Association (T&M)*, **118**(544), 2521--2532. [\[Pub\]](https://doi.org/10.1080/01621459.2022.2060835) [\[Manuscript\]](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [\[R package\]](https://github.com/alessandrozito/BNPvegan) [Best Student/Postdoc Contributed paper award at IBSA2021 world meeting.]{.orange} [BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University]{.pink}
+
+#### [Refereed conference proceedings]{.blue} {.central}
+
+1.  **Zito, A.**, Rigon, T. and Dunson, D. B. (2021). Modelling of accumulation curves through Weibull survival functions. In *Book of Short Papers of the Italian Statistical Society 2021* (Perna, C., Salvati, N. and Schirripa Spagnolo, F., editors). ISBN: 9788891927361. [\[Link part 1\]](%22https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-1.pdf%22) [\[Link part 2\]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-2.pdf)
+
+------------------------------------------------------------------------
+
+#### [Manuscripts in preparation]{.darkred} {.central}
+
+1.  **Zito, A.**, Xue, C., Parmigiani, G., and Miller, J. W. (2024+). Localized mutational signature analysis via inhomogenoeus Poisson process factorization.
+
+2.  **Zito, A.**, Parmigiani, G., Miller, J. W. and Samur, M. (2024+). Mutational signature analysis of RNA somatic mutations.
+
+3.  **Zito, A.**, Rigon T. and Dunson D. B. (2024+). The Antoniak exponential family for generalized linear models.
+
+4.  Orsholm, J.\*, **Zito, A.**\*, Chazlot, N, Roslin, T. and Furneaux, B. (2024+). Comparing model performance for taxonomic classification of unknown DNA barcodes.

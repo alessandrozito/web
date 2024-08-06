@@ -1,0 +1,8 @@
+/.quarto/
+.Rproj.user
+
+
+temp/
+images/people_unedited
+
+*.key

@@ -1,0 +1,54 @@
+---
+title: "Alessandro Zito"
+subtitle: "Postodoctoral researcher at Harvard Biostatistics"
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image: images/Ale2.jpg
+  image-shape: round
+  links:
+    - icon: journal-text
+      text: "Curriculum vitae"
+      href: files/resume.pdf
+    - icon: envelope-at
+      text: "Email address"
+      href: "mailto: azito@hsph.harvard.edu"
+    - icon: google
+      text: "Google scholar"
+      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
+    - icon: github
+      text: "Github"
+      href: https://github.com/alessandrozito
+    - icon: linkedin
+      text: "Linkedin"
+      href: https://www.linkedin.com/in/alessandro-zito-92b250153/
+    - icon: researchgate
+      text: "ResearchGate"
+      href: https://www.researchgate.net/profile/Alessandro-Zito-7
+    - icon: orcid-id
+      text: "Orcid"
+      href: https://orcid.org/0000-0001-8515-6503
+---
+
+## About me
+
+Welcome to my website!
+
+I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
+
+I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina. Prior to living in the United States in 2019, I studied Economics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/economic+and+social+sciences), in Milan, Italy.
+
+My curriculum vitae is available [here](files/resume.pdf). A complete list of publications is available [here](research.qmd).
+
+[E-mail]{.blue} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
+
+[Research interests]{.harvardred} - Bayesian statistics, Bayesian nonparametrics, Bioinformatics, Cancer genomics, Factor models, Mutational signature analysis.
+
+------------------------------------------------------------------------
+
+### News
+
+\[[August 2024]{.blue}\] My postdoc advisor Jeff Miller will be presenting *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* at the IMS conference in Berlin.
+
+\[[July 2024]{.blue}\] I presented my work *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors* (poster) and *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics.

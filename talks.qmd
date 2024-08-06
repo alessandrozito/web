@@ -1,0 +1,42 @@
+---
+---
+
+### List of talks and presentations
+
+[2024]{.blue}
+
+-  [ISBA2024](https://www.unive.it/web/en/2208/home), Venice, Italy - *Compressive Bayesian non-negative matrix factorization for mutational signature analysis.* - [Invited talk]{.gred}
+
+-  [ISBA2024](https://www.unive.it/web/en/2208/home), Venice, Italy - *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors.* - [Poster]{.ggreen}
+
+
+[2023]{.blue}
+
+-  [CMstat2023](https://www.cmstatistics.org/CMStatistics2023/), Berlin, Germany - *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors.* - [Invited talk]{.gred}
+
+-  [EcoSta2023](https://www.cmstatistics.org/EcoSta2023/), Tokyo, Japan - *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors.* - [Invited talk]{.gred}
+
+-  [NESS2023](https://archive.nestat.org/symposium2023/html/), Boston, MA, USA - *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors.* - [Invited talk]{.gred}
+
+[2022]{.blue}
+
+-  [CMstat2022](https://www.cmstatistics.org/CMStatistics2022/), London, UK - *Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa.* - [Invited talk]{.gred}
+
+-  [BNP13](https://midas.mat.uc.cl/bnp13/), Puerto Varas, Chile - *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors.* - [Poster]{.ggreen}
+
+-  [ISBA2022](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada - *Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa.* - [Poster]{.ggreen}
+
+- [Luomos SYKE Machine Learning seminar II](https://www.syke.fi/en-US/Current/Events/LuomusSYKE_Machine_learning_seminar_II(61819)), Virtual - *Taxonomic classification methods for DNA sequences.* - [Contributed talk]{.gyellow}
+
+[2021]{.blue}
+
+-  [ISBA2021](https://events.stat.uconn.edu/ISBA2021/), virtual - *Bayesian modeling of sequential discoveries.* - [Contributed talk]{.gyellow}
+
+-  [ISBA2021](https://events.stat.uconn.edu/ISBA2021/), virtual - *Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa.* - [Contributed talk]{.gyellow}
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "Alessandro Zito"
+  description: "Alessandro Zito is a statistician and a data scientist working on cancer genomics and ecology."
+  navbar: 
+    title: Ale Zito
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+      - href: talks.qmd
+        text: Talks
+      - href: colabs.qmd
+        text: Collaborators
+    right:    
+      - href: artwork.qmd
+        text: alezitoart
+      
+  page-footer:
+    left: "(c) 2024 By Alessandro Zito.  [Disclaimer](Disclaimer)"
+        
+format:
+  html:
+    theme: [cosmo, styles.css]
+    fontsize: 1.1em
+    linestretch: 1.6
+    max-width: 36em
+    backgroundcolor: "#F6F9FB"
+    css: styles.css
+    toc: false
+
+editor: visual
+
+

@@ -1,0 +1,81 @@
+### [Co-authors and collaborators]{.center}
+
+------------------------------------------------------------------------
+
+#### [Biostatistics and cancer biology]{.harvardred} {.center}
+
+<!-- Jeff -->
+
+[![](images/people/jeff_miller.jpeg){width="3.5em"}](https://jwmi.github.io/index.html) - [Jeffrey W. Miller](https://jwmi.github.io/index.html), Harvard University. [Main postdoc advisor]{.orange}
+
+<!-- Giovanni -->
+
+[![](images/people/giovanni_parmigiani.jpeg){width="3.5em"}](https://www.hsph.harvard.edu/profile/giovanni-parmigiani/) - [Giovanni Parmigiani](https://www.hsph.harvard.edu/profile/giovanni-parmigiani/), Harvard University, Dana-Farber Cancer institute. [Postdoc advisor]{.orange}
+
+<!-- Mehmet -->
+
+[![](images/people/mehmet_samur.jpeg){width="3.5em"}](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur) - [Mehmet K. Samur](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur), Harvard University, Dana-Farber cancer institute.
+
+<!-- Cathy -->
+
+[![](images/people/cathy_xue.jpeg){width="3.5em"}](https://www.linkedin.com/in/catherine-s-xue/) - [Catherine Xue](https://www.linkedin.com/in/catherine-s-xue/), Harvard University.
+
+------------------------------------------------------------------------
+
+#### [Bayesian nonparametrics]{.blue} {.center}
+
+<!-- Dunson -->
+
+[![](images/people/david_dunson.jpeg){width="3.5em"}](https://www.daviddunson.com/) - [David B. Dunson](https://www.daviddunson.com/), Duke University. [Ph.D. advisor]{.orange}
+
+<!-- Tommaso -->
+
+[![](images/people/tommaso_rigon.jpeg){width="3.5em"}](https://tommasorigon.github.io/) - [Tommaso Rigon](https://tommasorigon.github.io/), University of Milano-Bicocca. [Ph.D. co-advisor]{.orange}
+
+<!-- Changwoo -->
+
+[![](images/people/changwoo_lee.jpeg){width="3.5em"}](https://changwoo-lee.github.io/) - [Changwoo J. Lee](https://changwoo-lee.github.io/), Duke University.
+
+<!-- Huiyan -->
+
+[![](images/people/huyan_sang.jpeg){width="3.5em"}](https://sites.google.com/site/huiyansang/) - [Huiyan Sang](https://sites.google.com/site/huiyansang/), Texas A&M University.
+
+------------------------------------------------------------------------
+
+#### [Bioinformatics and Ecology]{.forestgreen} {.center}
+
+<!-- Otso -->
+
+[![](images/people/otso_ovaskainen.jpeg){width="3.5em"}](https://www.jyu.fi/en/people/otso-ovaskainen) - [Otso Ovaskainen](https://www.jyu.fi/en/people/otso-ovaskainen), University of Jyvaskyla.
+
+<!--Johanna -->
+
+[![](images/people/johanna_orsholm.jpeg){width="3.5em"}](https://www.slu.se/en/departments/ecology/research2/vetenskapliga-amnen/insektsekologi/insect-ecology2/insektsekologi-personal/) - [Johanna Orsholm](https://www.slu.se/en/departments/ecology/research2/vetenskapliga-amnen/insektsekologi/insect-ecology2/insektsekologi-personal/), Swedish University of Agricultural Sciences.
+
+<!--Brendan -->
+
+[![](images/people/brendan_furneaux.jpeg){width="3.5em"}](https://www.jyu.fi/en/people/brendan-furneaux) - [Brendan Furneaux](https://www.jyu.fi/en/people/brendan-furneaux), University of Jyvaskyla.
+
+<!--Tomas -->
+
+[![](images/people/tomas_roslin.jpeg){width="3.5em"}](https://www.slu.se/en/ew-cv/tomas-roslin/) - [Tomas Roslin](https://www.slu.se/en/ew-cv/tomas-roslin/), Swedish University of Agricultural Sciences.
+
+<!--Nicolas -->
+
+[![](images/people/nicolas_chazot.jpeg){width="3.5em"}](https://www.slu.se/en/ew-cv/nicolas-chazot/) - [Nicolas Chazot](https://www.slu.se/en/ew-cv/nicolas-chazot/), Swedish University of Agricultural Sciences.
+
+------------------------------------------------------------------------
+
+#### [A/B testing and industry applications]{.gblue} {.center}
+
+<!-- Jacopo  -->
+
+[![](images/people/jacopo_soriano.jpeg){width="3.5em"}](https://www.linkedin.com/in/jacsor/) - [Jacopo Soriano](https://www.linkedin.com/in/jacsor/), Google.
+
+<!-- Lee  -->
+
+[![](images/people/lee_richardson.jpeg){width="3.5em"}](https://www.linkedin.com/in/lee-richardson-46180756/) - [Lee Richardson](https://www.linkedin.com/in/lee-richardson-46180756/), Google.
+
+<!-- Dylan  -->
+
+[![](images/people/dylan_greaves.jpeg){width="3.5em"}](https://www.linkedin.com/in/dylan-greaves/) - [Dylan Greaves](https://www.linkedin.com/in/dylan-greaves/), Google.
