@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: files/resume.pdf 
+      href: web/files/resume.pdf 
     - icon: envelope-at
       text: "Email address"
       href: "mailto: azito@hsph.harvard.edu"
