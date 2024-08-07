@@ -4,9 +4,9 @@ I am strongly motivated by application, which serves as a base for developing ne
 
 My current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis.
 
-During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
+During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe. 
 
-[Ph.D. Dissertation](files/thesis.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Dissertation"} [Ph.D. defense slides](files/defense.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Defense slides"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Google scholar"}
+[Ph.D. Dissertation](files/thesis_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Dissertation"} [Ph.D. defense slides](files/defense_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Defense slides"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Google scholar"}
 
 ## Publications and manuscripts {.central}
 
@@ -24,9 +24,9 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 #### [Articles in refereed journals]{.blue} {.central}
 
-1.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023). Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. *Methods in Ecology and Evolution*, **14**, 529--542. [\[Pub\]](https://doi.org/10.1111/2041-210X.14009) [\[ArXiv\]](https://arxiv.org/abs/2201.09782) [\[Code\]](https://doi.org/10.5281/zenodo.7150668) [\[R package\]](https://github.com/alessandrozito/BayesANT). [Best poster award at IBSA2022 world meeting.]{.orange}
+1.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023). Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa. *Methods in Ecology and Evolution*, **14**, 529--542. [\[Pub\]](https://doi.org/10.1111/2041-210X.14009) [\[ArXiv\]](https://arxiv.org/abs/2201.09782) [\[Code\]](https://doi.org/10.5281/zenodo.7150668) [\[R package\]](https://github.com/alessandrozito/BayesANT). [Best poster award at IBSA2022 world meeting.]{.grey}
 
-2.  **Zito, A.**, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). Bayesian modeling of sequential discoveries. *Journal of the American Statistical Association (T&M)*, **118**(544), 2521--2532. [\[Pub\]](https://doi.org/10.1080/01621459.2022.2060835) [\[Manuscript\]](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [\[R package\]](https://github.com/alessandrozito/BNPvegan) [Best Student/Postdoc Contributed paper award at IBSA2021 world meeting.]{.orange} [BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University]{.pink}
+2.  **Zito, A.**, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). Bayesian modeling of sequential discoveries. *Journal of the American Statistical Association (T&M)*, **118**(544), 2521--2532. [\[Pub\]](https://doi.org/10.1080/01621459.2022.2060835) [\[Manuscript\]](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [\[R package\]](https://github.com/alessandrozito/BNPvegan) - [Best Student/Postdoc Contributed paper award at IBSA2021 world meeting.]{.grey} - [BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University]{.grey}
 
 #### [Refereed conference proceedings]{.blue} {.central}
 

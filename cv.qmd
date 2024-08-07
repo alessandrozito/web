@@ -1,4 +1,4 @@
-[Curriculum vitae](files/resume.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="CV"} [Linkedin](https://www.linkedin.com/in/alessandro-zito-92b250153/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="linkedin"}
+[Curriculum vitae](files/resume_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="CV"} [Linkedin](https://www.linkedin.com/in/alessandro-zito-92b250153/){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="linkedin"}
 
 ### Academic positions {.central}
 
@@ -72,7 +72,7 @@
 -   Ph.D. in Statistical Science, *August 2019 -- September 2023*.
 -   Advisor: Professor [David B. Dunson](https://www.daviddunson.com/)
 -   Co-advisor: [Tommaso Rigon](https://tommasorigon.github.io/)
--   Disseration: *Ecological modeling via Bayesian nonparametric species sampling priors*. [Link](https://www.proquest.com/openview/3aef46e2dd34370a7188063ec6efa951/1?pq-origsite=gscholar&cbl=18750&diss=y) [pdf](files/thesis.pdf) [Slides](files/defense.pdf)
+-   Disseration: *Ecological modeling via Bayesian nonparametric species sampling priors*. [Link](https://www.proquest.com/openview/3aef46e2dd34370a7188063ec6efa951/1?pq-origsite=gscholar&cbl=18750&diss=y) [pdf](files/thesis_alezito.pdf) [Slides](files/defense_alezito.pdf)
 :::
 :::
 
@@ -89,7 +89,7 @@
 
 -   Master's degree in Economics and Social Sciences, *September 2016 -- March 2019*.
 -   Graduation grade: 110 cum laude
--   Final thesis: *Conjugate Fractional Factorial Thompson Sampling via unified skew-normal*, with [Daniele Durante](https://danieledurante.github.io/web/) \[[pdf](files/master_thesis.pdf)\]
+-   Final thesis: *Conjugate Fractional Factorial Thompson Sampling via unified skew-normal*, with [Daniele Durante](https://danieledurante.github.io/web/) \[[pdf](files/master_thesis_alezito.pdf)\]
 :::
 :::
 

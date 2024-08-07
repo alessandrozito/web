@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: web/files/resume.pdf 
+      href: web/files/resume_alezito.pdf 
     - icon: envelope-at
       text: "Email address"
       href: "mailto: azito@hsph.harvard.edu"
@@ -33,22 +33,39 @@ about:
 
 ## About me
 
+<!---
+::: {.callout-important  icon=false}
+
+## [Great news!]{.gred}
+
+[To all j-ISBA members, I am running as [j-ISBA treasurer]{.gblue} for this coming October election! ]{.gred}
+
+[Would love to have your support to help me foster the new generation of Bayesian researchers and scientists. A detailed program of what I intend to do is available \[[here](jISBA_elections.qmd)\].]{.gred}
+
+[You can find \[[here]()\] the link to vote.]{.gred}
+
+:::
+--->
+
 Welcome to my website!
 
 I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
 
-I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina. Prior to living in the United States in 2019, I studied Economics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/economic+and+social+sciences), in Milan, Italy.
+I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina, where I worked under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
 
-My curriculum vitae is available [here](files/resume.pdf). A complete list of publications is available [here](research.qmd).
+My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
 
 [E-mail]{.blue} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
 
 [Research interests]{.harvardred} - Bayesian statistics, Bayesian nonparametrics, Bioinformatics, Cancer genomics, Factor models, Mutational signature analysis.
 
 ------------------------------------------------------------------------
-
+<!--
 ### News
 
-\[[August 2024]{.blue}\] My postdoc advisor Jeff Miller will be presenting *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* at the IMS conference in Berlin.
+//\[[August 2024]{.blue}\] My postdoc advisor Jeff Miller will be presenting *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* at the IMS conference in Berlin.
 
 \[[July 2024]{.blue}\] I presented my work *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors* (poster) and *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics.
+-->
+
+
