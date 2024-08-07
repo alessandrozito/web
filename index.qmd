@@ -68,4 +68,6 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 \[[July 2024]{.blue}\] I presented my work *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors* (poster) and *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics.
 -->
 
-
+```{=html}
+<meta name="google-site-verification" content="8VlySRWcAYNJqMvbPEh8XS0Dl_QPeEuigWeOuSLnGMg" />
+```
