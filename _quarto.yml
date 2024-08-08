@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Alessandro Zito"
+  favicon: images/painting.jpeg
   description: "Alessandro Zito is a statistician and a data scientist working on cancer genomics and ecology."
   navbar: 
     title: Ale Zito
