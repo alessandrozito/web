@@ -30,7 +30,6 @@ about:
       text: "Orcid"
       href: https://orcid.org/0000-0001-8515-6503
 ---
-
 ## About me
 
 <!---

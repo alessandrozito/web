@@ -9,7 +9,7 @@ website:
   description: "Alessandro Zito is a statistician and a data scientist working on cancer genomics and ecology."
   navbar: 
     title: Ale Zito
-    logo: images/logoHarvard.jpeg
+    logo: images/painting.jpeg
     left:
       - href: index.qmd
         text: Home
@@ -33,7 +33,8 @@ website:
   
 include-in-header: 
   - text: |
-      <meta name="google-site-verification" content="8VlySRWcAYNJqMvbPEh8XS0Dl_QPeEuigWeOuSLnGMg" />      
+      <meta name="google-site-verification" content="8VlySRWcAYNJqMvbPEh8XS0Dl_QPeEuigWeOuSLnGMg" />    
+      
 format:
   html:
     theme: [cosmo, styles.css]
@@ -47,7 +48,7 @@ format:
       sidebar-width: 200px
       body-width: 1000px
       margin-width: 200px
-      
+    favicon: images/painting.jpeg
 
 
 
