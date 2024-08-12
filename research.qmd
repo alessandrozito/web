@@ -16,7 +16,7 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 2.  Lee, C. J., **Zito, A.**, Sang, H., and Dunson, D. B. (2024+). Logistic-Beta Processes for dependent random probabilities with beta marginals. *Submitted, awaiting decision*. [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
 
-3.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023+). Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. *Submitted major revision, awaiting decision*. [\[ArXiv\]](https://arxiv.org/pdf/2306.02360.pdf) [\[R Package\]](https://github.com/alessandrozito/ConjugateDP)
+3.  **Zito, A.**, Rigon, T., and Dunson, D. B. (2023+). Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors. *Submitted minor revision, awaiting decision*. [\[ArXiv\]](https://arxiv.org/pdf/2306.02360.pdf) [\[R Package\]](https://github.com/alessandrozito/ConjugateDP)
 
 4.  Richardson, L.\*, **Zito, A.**\*, Greaves, D., and Soriano, J. (2023+). Pareto optimal proxy metrics. *Received major revision*. [\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
 
