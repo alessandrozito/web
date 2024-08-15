@@ -40,4 +40,4 @@
     - [Narmadha M. Mohankumar](https://scholar.google.com/citations?user=e61OCNUAAAAJ&hl=en), Pacific Northwest National Lab. - *Using machine learning to model nontraditional spatial dependence in occupancy data*.
     
 
-
+------------------------------------------------------------------------

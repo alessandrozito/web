@@ -11,24 +11,24 @@ about:
     - icon: journal-text
       text: "Curriculum vitae"
       href: web/files/resume_alezito.pdf 
-    - icon: envelope-at
-      text: "Email address"
-      href: "mailto: azito@hsph.harvard.edu"
-    - icon: google
-      text: "Google scholar"
-      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
-    - icon: github
-      text: "Github"
-      href: https://github.com/alessandrozito
-    - icon: linkedin
-      text: "Linkedin"
-      href: https://www.linkedin.com/in/alessandro-zito-92b250153/
-    - icon: researchgate
-      text: "ResearchGate"
-      href: https://www.researchgate.net/profile/Alessandro-Zito-7
-    - icon: orcid-id
-      text: "Orcid"
-      href: https://orcid.org/0000-0001-8515-6503
+#    - icon: envelope-at
+#      text: "Email address"
+#      href: "mailto: azito@hsph.harvard.edu"
+#    - icon: google
+#     text: "Google scholar"
+#      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
+#    - icon: github
+#      text: "Github"
+#      href: https://github.com/alessandrozito
+#    - icon: linkedin
+#      text: "Linkedin"
+#      href: https://www.linkedin.com/in/alessandro-zito-92b250153/
+#    - icon: researchgate
+#      text: "ResearchGate"
+#      href: https://www.researchgate.net/profile/Alessandro-Zito-7
+#    - icon: orcid-id
+#      text: "Orcid"
+#      href: https://orcid.org/0000-0001-8515-6503
 ---
 ## About me
 
