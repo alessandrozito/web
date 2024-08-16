@@ -41,7 +41,7 @@ website:
       [{{< iconify fa6-brands github size=30px >}}](https://github.com/alessandrozito) &nbsp; 
       [{{< iconify fa6-brands linkedin size=30px >}}](https://www.linkedin.com/in/alessandro-zito-92b250153/) &nbsp; 
       [{{< ai researchgate size=31px >}}](https://www.researchgate.net/profile/Alessandro-Zito-7) &nbsp; 
-      [{{< ai orcid size=31px >}}](href: https://orcid.org/0000-0001-8515-6503) 
+      [{{< ai orcid size=31px >}}](https://orcid.org/0000-0001-8515-6503) 
       </center>
   page-footer:
     left: "© 2024 By Alessandro Zito. All rights reserved."
