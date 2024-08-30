@@ -1,3 +1,23 @@
 ---
-title: "Coming soon!"
+title: "Coming soon: a gallery of my paitings!"
 ---
+
+I have been a painter since 2017, after the stimulating encounter with professional painter [Guido Buganza](https://www.guidobuganza.com/).
+
+In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
+
+
+### 2017
+
+
+
+
+::: {#fig-girls layout-ncol=3}
+
+![Shouting girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza2.jpeg){width="18em"}
+
+![Exploring girl. 90x90cm. Acrylic on canvas](images/alezitoart/Ragazza3.jpeg){width="20em"}
+
+![Rejoicing girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza1.jpeg){width="18em"}
+
+:::
