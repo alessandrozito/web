@@ -1,5 +1,5 @@
 ---
-title: "Coming soon: a gallery of my paitings!"
+title: "A gallery of my paitings"
 ---
 
 I have been a painter since 2017, after the stimulating encounter with professional painter [Guido Buganza](https://www.guidobuganza.com/).
@@ -7,17 +7,63 @@ I have been a painter since 2017, after the stimulating encounter with professio
 In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
 
 
-### 2017
+## 2019 - Actors and actors
 
 
+## 2018 - transition to oil
 
+::: {#figure-musicanti layout-ncol=1}
 
-::: {#fig-girls layout-ncol=3}
-
-![Shouting girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza2.jpeg){width="18em"}
-
-![Exploring girl. 90x90cm. Acrylic on canvas](images/alezitoart/Ragazza3.jpeg){width="20em"}
-
-![Rejoicing girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza1.jpeg){width="18em"}
+![The musicians. 60x80cm. Oil on canvas](images/alezitoart/le_musicanti.jpg){width="25em"}
 
 :::
+
+::: {#figure-others layout-ncol=2 layout-valign="bottom"}
+
+![Study on Rembrandt. 20x25cm. Oil on canvas](images/alezitoart/rembrandt.jpg){width="10em"}
+
+![Composizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas](images/alezitoart/david.jpg){width="22em"}
+
+:::
+
+::: {#figure-lights layout-ncol=2}
+
+![A fall, a mother, a light. 40x50cm. Acrylic on canvas](images/alezitoart/fall_mother_light.jpg){width="18em"}
+
+![Study on Rembrandt. 30x40cm. Acrylic on canvas](images/alezitoart/the_bet.jpg){width="18em"}
+
+
+
+:::
+
+
+
+## 2017 - acrilyics
+
+
+::: {#figure-girls layout-ncol=3}
+
+![Shouting girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza2.jpeg){width="15em"}
+
+![Exploring girl. 90x90cm. Acrylic on canvas](images/alezitoart/Ragazza3.jpeg){width="18em"}
+
+
+![Rejoicing girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza1.jpeg){width="15em"}
+
+
+:::
+
+
+::: {#triptic-girls layout-ncol=3}
+
+![Sailing girl. 50x70cm. Acrylic on canvas](images/alezitoart/sailing_girl.jpg){width="18em"}
+
+![Third girl. 50x70cm. Acrylic on canvas](images/alezitoart/third_girl.jpg){width="18em"}
+
+
+![Smoking girl. 50x70cm. Acrylic on canvas](images/alezitoart/smoking_girl.jpg){width="18em"}
+
+
+:::
+
+
