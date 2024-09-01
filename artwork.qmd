@@ -6,8 +6,29 @@ I have been a painter since 2017, after the stimulating encounter with professio
 
 In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
 
+## 2023 
 
-## 2019 - Actors and actors
+
+## 2022  
+
+
+## 2021 
+
+
+## 2020 
+
+
+## 2019 - Actors and actors, and family
+
+::: {#figure-actors layout-ncol=3 layout-valign="bottom"}
+
+![Marco. 15x20cm. Oil on canvas](images/alezitoart/marco.jpg){width="11em"}
+
+![Valentina. 13x18cm. Oil on canvas](images/alezitoart/valentina.jpg){width="9em"}
+
+![Helena. 15x20cm. Oil on canvas](images/alezitoart/helena.jpg){width="11em"}
+
+:::
 
 
 ## 2018 - transition to oil
