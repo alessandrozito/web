@@ -32,19 +32,19 @@ about:
 ---
 ## About me
 
-<!---
+
 ::: {.callout-important  icon=false}
 
 ## [Great news!]{.gred}
 
 [To all j-ISBA members, I am running as [j-ISBA treasurer]{.gblue} for this coming October election! ]{.gred}
 
-[Would love to have your support to help me foster the new generation of Bayesian researchers and scientists. A detailed program of what I intend to do is available \[[here](jISBA_elections.qmd)\].]{.gred}
+[Would love to have your support to help me foster the new generation of Bayesian researchers and scientists!]{.gred}
 
-[You can find \[[here]()\] the link to vote.]{.gred}
+[Link to vote out soon!]{.gred}
 
 :::
---->
+
 
 Welcome to my website!
 

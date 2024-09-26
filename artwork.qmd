@@ -7,9 +7,6 @@ I have been a painter since 2017, after the stimulating encounter with professio
 In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
 
 
-## Family
-
-
 
 
 ## Monologues (actors on actors)
@@ -34,6 +31,32 @@ Some portraits of my actor friends. This was part of a personal exhibition back 
 
 :::
 
+## Portraits inspired by my family 
+
+::: {#figure-musicanti layout-ncol=3}
+
+![Lina la cicala. 13x18cm. Oil on canvas, 2019](images/alezitoart/nonna.jpg){width="15em"}
+
+![Pietro di moccafava. 50x70cm. Oil on canvas, 2019](images/alezitoart/nonno.jpg){width="25em"}
+
+![The climber. 50x70cm. Oil on canvas, 2020](images/alezitoart/scalatore.jpg){width="25em"}
+
+:::
+
+
+## still-life (many bottles)
+
+::: {#figure-bottles layout-ncol=3 layout-valign="bottom"}
+
+![Bottles. 20x15cm. Oil on canvas, 2021](images/alezitoart/bottles.jpg){width="13em"}
+
+![Bottles. 25x30cm. Oil on canvas, 2018](images/alezitoart/bottles3.jpg){width="20em"}
+
+
+![Bottles. 13x18cm. Oil on canvas, 2019](images/alezitoart/bottles2.jpg){width="13em"}
+
+:::
+
 
 ## Early oil works
 
@@ -54,7 +77,7 @@ Some portraits of my actor friends. This was part of a personal exhibition back 
 
 ## Study of famous paitings
 
-::: {#figure-others layout-ncol=2 layout-valign="bottom"}
+::: {#figure-others layout-ncol=2 layout-valign="top"}
 
 ![Reproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based](images/alezitoart/alezitoart.jpg){width="20em"}
 
@@ -62,7 +85,7 @@ Some portraits of my actor friends. This was part of a personal exhibition back 
 
 :::
 
-::: {#figure-others layout-ncol=3 layout-valign="bottom"}
+::: {#figure-others layout-ncol=3 layout-valign="top"}
 
 ![Study on Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!](images/alezitoart/rembrandt.jpg){width="10em"}
 
@@ -73,6 +96,12 @@ Some portraits of my actor friends. This was part of a personal exhibition back 
 
 :::
 
+
+:::{#figure-others layout-ncol=1 layout-valign="bottom"}
+
+![Study on Chardin. 30x40cm. Oil on canvas, 2018.](images/alezitoart/chardin.jpg){width="20em"}
+
+:::
 
 
 
