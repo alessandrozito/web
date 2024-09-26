@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Zito"
-subtitle: "Postodoctoral researcher at Harvard Biostatistics"
+subtitle: "Postodoctoral researcher at Harvard Biostatistics and Dana-Farber cancer institute"
 page-layout: full
 about:
   template: trestles
@@ -48,15 +48,17 @@ about:
 
 Welcome to my website!
 
-I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/).
+I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I am also affiliated with the Data Sciences department at the [Dana-Farber cancer institute](https://www.dana-farber.org/research/departments-centers/data-science).
 
 I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina, where I worked under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
 
 My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
 
-[E-mail]{.blue} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
+[Primary e-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu
 
-[Research interests]{.harvardred} - Bayesian statistics, Bayesian nonparametrics, Bioinformatics, Cancer genomics, Factor models, Mutational signature analysis.
+[Secondary e-mail]{.blue} - [alessandro\_zito\@dfci.harvard.edu](alessandro_zito@dfci.harvard.edu)
+
+My research interests include Bayesian statistics, Bayesian nonparametrics and factor models for cancer genomics, mutational signature analysis and ecology.
 
 ------------------------------------------------------------------------
 <!--

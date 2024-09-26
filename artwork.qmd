@@ -6,52 +6,85 @@ I have been a painter since 2017, after the stimulating encounter with professio
 
 In 2018, I have won the "Looking for Art" paiting contest, which allowed me to exibithion my paintings at Milan "La Triennale". In 2019, I had my first personal exibithion at Spazio Arte Tirabassi (Milan). 
 
-## 2023 
+
+## Family
 
 
-## 2022  
 
 
-## 2021 
+## Monologues (actors on actors)
 
+Some portraits of my actor friends. This was part of a personal exhibition back in 2019.
 
-## 2020 
+::: {#figure-musicanti layout-ncol=2}
 
+![Valentina. 90x100cm. Oil on canvas, 2019](images/alezitoart/valentina2.jpg){width="25em"}
 
-## 2019 - Actors and actors, and family
+![Marta. 50x60cm. Oil on canvas, 2019. My actual cousin!](images/alezitoart/marta.jpg){width="20em"}
+
+:::
 
 ::: {#figure-actors layout-ncol=3 layout-valign="bottom"}
 
-![Marco. 15x20cm. Oil on canvas](images/alezitoart/marco.jpg){width="11em"}
+![Marco. 15x20cm. Oil on canvas, 2019](images/alezitoart/marco.jpg){width="11em"}
 
-![Valentina. 13x18cm. Oil on canvas](images/alezitoart/valentina.jpg){width="9em"}
+![Valentina. 13x18cm. Oil on canvas, 2019](images/alezitoart/valentina.jpg){width="9em"}
 
-![Helena. 15x20cm. Oil on canvas](images/alezitoart/helena.jpg){width="11em"}
+![Helena. 15x20cm. Oil on canvas, 2019](images/alezitoart/helena.jpg){width="11em"}
 
 :::
 
 
-## 2018 - transition to oil
+## Early oil works
 
 ::: {#figure-musicanti layout-ncol=1}
 
-![The musicians. 60x80cm. Oil on canvas](images/alezitoart/le_musicanti.jpg){width="25em"}
+![The musicians. 60x80cm. Oil on canvas, 2018](images/alezitoart/le_musicanti.jpg){width="25em"}
 
 :::
 
 ::: {#figure-others layout-ncol=2 layout-valign="bottom"}
 
-![Study on Rembrandt. 20x25cm. Oil on canvas](images/alezitoart/rembrandt.jpg){width="10em"}
+![Unfinished Peonies. 20x25cm. Oil on canvas, 2020](images/alezitoart/unfinished_peonies.jpg){width="15em"}
 
 ![Composizione: cono storto, sfera rotta, David. 50x70cm. Oil on canvas](images/alezitoart/david.jpg){width="22em"}
 
 :::
 
+
+## Study of famous paitings
+
+::: {#figure-others layout-ncol=2 layout-valign="bottom"}
+
+![Reproduction of Starry night, Van gogh. 70x100cm. Oil on canvas, 2019. Commision-based](images/alezitoart/alezitoart.jpg){width="20em"}
+
+![Study on Tiziano - Trionfo di Bacco e Arianna. 60x80cm. Oil on canvas, 2018](images/alezitoart/tiziano.jpg){width="20em"}
+
+:::
+
+::: {#figure-others layout-ncol=3 layout-valign="bottom"}
+
+![Study on Rembrandt - self portrait. 20x25cm. Oil on canvas, 2018. My first oil painting!](images/alezitoart/rembrandt.jpg){width="10em"}
+
+![Study on Lucian Freud - Boy smoking. 13x18cm. Oil on canvas, 2019](images/alezitoart/freud.jpg){width="10em"}
+
+
+![Study on Rembrandt - Jeremiah Lamenting the Destruction of Jerusalem. 13x18cm. Oil on canvas, 2020](images/alezitoart/Jerusalem_rembrandt.jpg){width="10em"}
+
+:::
+
+
+
+
+
+
+## Acrilyics
+
 ::: {#figure-lights layout-ncol=2}
 
-![A fall, a mother, a light. 40x50cm. Acrylic on canvas](images/alezitoart/fall_mother_light.jpg){width="18em"}
+![A fall, a mother, a light. 40x50cm. Acrylic on canvas, 2018](images/alezitoart/fall_mother_light.jpg){width="18em"}
 
-![Study on Rembrandt. 30x40cm. Acrylic on canvas](images/alezitoart/the_bet.jpg){width="18em"}
+![Study on Rembrandt. 30x40cm. Acrylic on canvas, 2018](images/alezitoart/the_bet.jpg){width="18em"}
 
 
 
@@ -59,17 +92,14 @@ In 2018, I have won the "Looking for Art" paiting contest, which allowed me to e
 
 
 
-## 2017 - acrilyics
-
-
 ::: {#figure-girls layout-ncol=3}
 
-![Shouting girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza2.jpeg){width="15em"}
+![Shouting girl. 70x70cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza2.jpeg){width="15em"}
 
-![Exploring girl. 90x90cm. Acrylic on canvas](images/alezitoart/Ragazza3.jpeg){width="18em"}
+![Exploring girl. 90x90cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza3.jpeg){width="18em"}
 
 
-![Rejoicing girl. 70x70cm. Acrylic on canvas](images/alezitoart/Ragazza1.jpeg){width="15em"}
+![Rejoicing girl. 70x70cm. Acrylic on canvas, 2017](images/alezitoart/Ragazza1.jpeg){width="15em"}
 
 
 :::
@@ -77,13 +107,21 @@ In 2018, I have won the "Looking for Art" paiting contest, which allowed me to e
 
 ::: {#triptic-girls layout-ncol=3}
 
-![Sailing girl. 50x70cm. Acrylic on canvas](images/alezitoart/sailing_girl.jpg){width="18em"}
+![Sailing girl. 50x70cm. Acrylic on canvas, 2017](images/alezitoart/sailing_girl.jpg){width="18em"}
 
-![Third girl. 50x70cm. Acrylic on canvas](images/alezitoart/third_girl.jpg){width="18em"}
+![Third girl. 50x70cm. Acrylic on canvas, 2017](images/alezitoart/third_girl.jpg){width="18em"}
 
 
 ![Smoking girl. 50x70cm. Acrylic on canvas](images/alezitoart/smoking_girl.jpg){width="18em"}
+:::
 
+::: {#other-acrylics layout-ncol=3}
+
+![Inspiration from Mirò. 40x50cm. Acrylic on canvas, 2017](images/alezitoart/miro-type.jpg){width="12em"}
+
+![Time goes by. 60x80cm. Acrylic on canvas, 2018](images/alezitoart/time.jpg){width="23em"}
+
+![Another inspiration from Mirò. 50x50cm. Acrylic on canvas, 2017](images/alezitoart/miro-type2.jpg){width="12em"}
 
 :::
 
