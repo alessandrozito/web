@@ -54,7 +54,7 @@ I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duk
 
 My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
 
-[Primary e-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu
+[Primary e-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
 
 [Secondary e-mail]{.blue} - [alessandro\_zito\@dfci.harvard.edu](alessandro_zito@dfci.harvard.edu)
 
