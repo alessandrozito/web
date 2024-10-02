@@ -56,7 +56,7 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 
 [Primary e-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
 
-[Secondary e-mail]{.blue} - [alessandro\_zito\@dfci.harvard.edu](alessandro_zito@dfci.harvard.edu)
+[Secondary e-mail]{.blue} - [azito\@ds.dfci.harvard.edu](azito@ds.dfci.harvard.edu)
 
 My research interests include Bayesian statistics, Bayesian nonparametrics and factor models for cancer genomics, mutational signature analysis and ecology.
 
