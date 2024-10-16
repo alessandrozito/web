@@ -12,11 +12,13 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 #### [Preprints]{.blue} {.central}
 
+1.  Xue, C., **Zito, A.** and Miller, J. W. (2024+). Improved control of Dirichlet location and scale near the boundary. ***Posted on arXiv!*** [\[ArXiv\]]() [\[GitHub\]](https://github.com/casxue/ImprovedDirichlet)
+
 1.  **Zito, A.** and Miller, J. W. (2024+). Compressive Bayesian non-negative matrix factorization for mutational signature analysis. ***Received Reject and Resubmit, working :)*** [\[ArXiv\]](https://arxiv.org/abs/2404.10974) [\[GitHub\]](https://github.com/alessandrozito/CompressiveNMF)
 
 2.  Lee, C. J., **Zito, A.**, Sang, H., and Dunson, D. B. (2024+). Logistic-Beta Processes for dependent random probabilities with beta marginals. ***Submitted, awaiting decision***. [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
 
-3.  Richardson, L.\*, **Zito, A.**\*, Greaves, D., and Soriano, J. (2023+). Pareto optimal proxy metrics. ***Received major revision, working :)*** [\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
+3. **Zito, A.**\*, Greaves, D., Soriano, J. and Richardson, L.\* (2024+). Pareto optimal proxy metrics. ***Replied to Major Revisions, awaiting decision*** [\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
 
 ------------------------------------------------------------------------
 
