@@ -46,6 +46,6 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 4.  Orsholm, J.\*, **Zito, A.**\*, Chazlot, N, Roslin, T. and Furneaux, B. (2024+). Comparing model performance for taxonomic classification of unknown DNA barcodes.
 
-5.  Xue, C., **Zito, A.**, and Miller, J. W. (2024+). Improved control of Dirichlet location and scale near the boundary
+
 
 ------------------------------------------------------------------------

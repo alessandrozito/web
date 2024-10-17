@@ -30,22 +30,18 @@ about:
 #      text: "Orcid"
 #      href: https://orcid.org/0000-0001-8515-6503
 ---
+
 ## About me
 
-
-::: {.callout-important  icon=false}
-
+::: {.callout-important icon="false"}
 ## [Great news!]{.gred}
 
-[To all j-ISBA members, I am running as [j-ISBA treasurer]{.gblue} for this coming October election! ]{.gred}
+[To all j-ISBA members, I am running as ]{.gred} [ j-ISBA treasurer]{.gblue} [for this coming October election!]{.gred}
 
 [Would love to have your support to help me foster the new generation of Bayesian researchers and scientists!]{.gred}
 
-[Link to vote out soon!]{.gred}
-
 :::
 
-  
 Welcome to my website!
 
 I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I am also affiliated with the Data Sciences department at the [Dana-Farber cancer institute](https://www.dana-farber.org/research/departments-centers/data-science).
@@ -61,6 +57,8 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 My research interests include Bayesian statistics, Bayesian nonparametrics and factor models for cancer genomics, mutational signature analysis and ecology.
 
 ------------------------------------------------------------------------
+
+```{=html}
 <!--
 ### News
 
@@ -68,4 +66,4 @@ My research interests include Bayesian statistics, Bayesian nonparametrics and f
 
 \[[July 2024]{.blue}\] I presented my work *Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors* (poster) and *Compressive Bayesian non-negative matrix factorization for mutational signature analysis* (talk) at the ISBA world meeting 2024. ISBA is the main international conference fro Bayesian statistics.
 -->
-
+```
