@@ -53,6 +53,16 @@ website:
 include-in-header: 
   - text: |
       <meta name="google-site-verification" content="8VlySRWcAYNJqMvbPEh8XS0Dl_QPeEuigWeOuSLnGMg" />    
+  - text: |
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-BT2P82WGQJ"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-BT2P82WGQJ');
+      </script>
       
 format:
   html:
