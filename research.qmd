@@ -30,14 +30,14 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 3.  **Zito, A.**, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). Bayesian modeling of sequential discoveries. ***Journal of the American Statistical Association (T&M)***, *118*(544), 2521--2532. [\[Pub\]](https://doi.org/10.1080/01621459.2022.2060835) [\[Manuscript\]](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [\[R package\]](https://github.com/alessandrozito/BNPvegan) - [*Best Student/Postdoc Contributed paper award at IBSA2021 world meeting.*]{.orange} - [*BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University*]{.pink}
 
-#### [Refereed conference proceedings]{.blue} {.central}
+#### [Refereed conference proceedings and discussions]{.blue} {.central}
+
+1. **Zito, A.** and Miller, J. W. (2024). Discussion to *Sparse Bayesian factor analysis
+when the number of factors is unknown* by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L., ***Bayesian Analysis*** [\[Pub\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
 
 1.  **Zito, A.**, Rigon, T. and Dunson, D. B. (2021). Modelling of accumulation curves through Weibull survival functions. In ***Book of Short Papers of the Italian Statistical Society 2021*** (Perna, C., Salvati, N. and Schirripa Spagnolo, F., editors). ISBN: 9788891927361. [\[Link part 1\]](%22https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-1.pdf%22) [\[Link part 2\]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-2.pdf)
 
-#### [Discussions]{.blue} {.central}
 
-**Zito, A.** and Miller, J. W. (2024). Discussion to *Sparse Bayesian factor analysis
-when the number of factors is unknown* by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L., ***Bayesian Analysis*** [\[Pub\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
 
 ------------------------------------------------------------------------
 
