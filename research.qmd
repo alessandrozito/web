@@ -36,8 +36,8 @@ During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under 
 
 #### [Discussions]{.blue} {.central}
 
-**Zito, A.** and Miller, J. W. (2024). Discussion to ``Sparse Bayesian factor analysis
-when the number of factors is unknown'' by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L., ***Bayesian Analysis*** [\[Pub\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
+**Zito, A.** and Miller, J. W. (2024). Discussion to *Sparse Bayesian factor analysis
+when the number of factors is unknown* by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L., ***Bayesian Analysis*** [\[Pub\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
 
 ------------------------------------------------------------------------
 
