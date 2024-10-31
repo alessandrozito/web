@@ -62,7 +62,7 @@ In my research, I work towards having easy-to-use software that can be useful to
 
 [ConjugateDP - random number generator for the Stirling-gamma distribution]{.blue}
 
-[ConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in [Zito, Rigon, Dunson (2024+) arXiv](https://arxiv.org/abs/2306.02360)]{style="font-size: 80%;"}
+[ConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in [Zito, Rigon, Dunson (2024)  BA](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full)]{style="font-size: 80%;"}
 
 [GitHub](https://github.com/alessandrozito/ConjugateDP){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="ConjugateDP_github"}
 
@@ -120,4 +120,3 @@ Property of Google LLC :)
 :::
 
 ------------------------------------------------------------------------
-

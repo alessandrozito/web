@@ -18,7 +18,7 @@
 
 <!-- Cathy -->
 
-[![](images/people/cathy_xue.jpeg){width="3.5em"}](https://www.linkedin.com/in/catherine-s-xue/) - [Catherine Xue](https://www.linkedin.com/in/catherine-s-xue/), Harvard University.
+[![](images/people/cathy_xue.jpeg){width="3.5em"}](https://www.linkedin.com/in/catherine-s-xue/) - [Catherine Xue](https://scholar.google.com/citations?user=V5VdV1gAAAAJ&hl=en), Harvard University.
 
 ------------------------------------------------------------------------
 
@@ -81,5 +81,3 @@
 [![](images/people/dylan_greaves.jpeg){width="3.5em"}](https://www.linkedin.com/in/dylan-greaves/) - [Dylan Greaves](https://www.linkedin.com/in/dylan-greaves/), Google.
 
 ------------------------------------------------------------------------
-
-
