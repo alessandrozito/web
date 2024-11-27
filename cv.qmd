@@ -137,6 +137,10 @@
 
 -   I have served as reviewer for the following journals: *Electronic Journal of Statistics*, *Bayesian Analysis*, *Ecography*, *Philosophical transactions of the Royal Society A*, *Computational Statistics & Data Analysis*.
 
+### Service to the community
+
+- From January 2025, I will be serving on the Board of j-ISBA under the role of Treasurer
+
 ### Skills
 
 -   Programming Languages: R, Python, C++, LaTex
@@ -144,9 +148,9 @@
 
 ### Interests and activities
 
--   Running. I am preparing the 2024 Philadelphia marathon!
+-   Running. Philadelphia marathon 2024 closed in 3:54! 
 -   Painting. See [here](artwork.qmd)
--   Music. Bass player of *The Bayesment Project*
+-   Music. Bass player of [*Project 42*](), a Harvard Data Science Initiative
 -   Former actor, semi-professional level.
 
 ------------------------------------------------------------------------
