@@ -150,7 +150,7 @@
 
 -   Running. Philadelphia marathon 2024 closed in 3:54! 
 -   Painting. See [here](artwork.qmd)
--   Music. Bass player of [*Project 42*](), a Harvard Data Science Initiative
--   Former actor, semi-professional level.
+-   Music. Bass player of [*Project 42*](https://datascience.harvard.edu/programs/postdoctoral-fellow-research-fund/), a Harvard Data Science Initiative aimed at fusing music with art and data science.
+-   Former actor, semi-professional level. 
 
 ------------------------------------------------------------------------
