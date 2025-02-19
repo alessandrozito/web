@@ -71,7 +71,13 @@ $font-family-sans-serif: "Noto", sans-serif !default;
 }
 
 
+.black{
+   color:#000000;
+}
 
 
+.forestgreen2{
+   color: rgb(0, 144, 81);
+}
 
 
