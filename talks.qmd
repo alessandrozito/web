@@ -1,5 +1,10 @@
 ### List of talks and presentations
 
+[2025]{.blue}
+
+-   [Brown University, Data Science Initiative](https://events.brown.edu/dsi/event/291116-data-matters-seminar-compressive-bayesian-n), Providence, RI, USA - *Compressive Bayesian non-negative matrix factorization for mutational signature analysis.* - [Invited seminar]{.gred} [Video](https://www.youtube.com/watch?v=3y8KRxawYYk)
+
+
 [2024]{.blue}
 
 -   [Cattolica University of the Sacred Hearth](https://www.unicatt.it/eventi/ateneo/milano/2024/compressive-bayesian-non-negative-matrix.html), Milan, Italy - *Compressive Bayesian non-negative matrix factorization for mutational signature analysis.* - [Invited seminar]{.gred}
