@@ -115,7 +115,7 @@
 ------------------------------------------------------------------------
 
 ### Awards {.central}
-
+- \[[2024]{.blue}\]: Finalist for the [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/). Winner announced August 2025.
 -   \[[2023]{.blue}\]: [PQG travel award](https://www.hsph.harvard.edu/pqg/studentpostdoc-travel-fund/), Harvard T.H. Chan School of Public Health.
 -   \[[2022]{.blue}\]: [BEST award for Ph.D. Student Research](https://stat.duke.edu/news/best-award-winners-2022) for the paper *Bayesian modeling of sequential discoveries*, Department of Statistical Science, Duke University.
 -   \[[2022]{.blue}\]: Poster award at the [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada.

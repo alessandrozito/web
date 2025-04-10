@@ -6,6 +6,8 @@ My current line of work involves improving on Bayesian non-negative matrix facto
 
 During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
 
+I have been selected as a finalist for the 2024 [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) for my Ph.D. thesis. The winner will be announced August 2025 at JSM in Nashville. You can read my dissertation below. 
+
 [Ph.D. Dissertation](files/thesis_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Dissertation"} [Ph.D. defense slides](files/defense_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Defense slides"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Google scholar"}
 
 ## Publications and manuscripts {.central}

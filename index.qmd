@@ -49,7 +49,7 @@ My research interests include Bayesian statistics, Bayesian nonparametrics and f
 
 ## News 
 
-[I am a finalist for the 2025 Savage Award in Applied Methodology!]{.gblue} for my thesis
+[I am a finalist for the 2024 Savage Award in Applied Methodology!]{.gblue} for my thesis
 "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors"! I will present 
 the work this coming August at JSM in Nashville :) 
 
