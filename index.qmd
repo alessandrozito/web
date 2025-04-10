@@ -47,6 +47,12 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 
 My research interests include Bayesian statistics, Bayesian nonparametrics and factor models for cancer genomics, mutational signature analysis and ecology.
 
+## News 
+
+[I am a finalist for the 2025 Savage Award in Applied Methodology!]{.gblue} for my thesis
+"Ecological Modeling via Bayesian Nonparametric Species Sampling Priors"! I will present 
+the work this coming August at JSM in Nashville :) 
+
 [I have been officially elected j-ISBA treasurer!]{.gred} Looking forward to help 
 the community of young Bayesians across all continents! 
 
