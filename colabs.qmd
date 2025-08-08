@@ -6,7 +6,7 @@
 
 <!-- Jeff -->
 
-[![](images/people/jeff_miller.jpeg){width="3.5em"}](https://jwmi.github.io/index.html) - [Jeffrey W. Miller](https://jwmi.github.io/index.html), Harvard University. [Main postdoc advisor]{.orange}
+[![](images/people/jeff_miller.jpeg){width="3.5em"}](https://jwmi.github.io/index.html) - [Jeffrey W. Miller](https://jwmi.github.io/index.html), Harvard University. [Postdoc advisor]{.orange}
 
 <!-- Giovanni -->
 
@@ -14,7 +14,7 @@
 
 <!-- Mehmet -->
 
-[![](images/people/mehmet_samur.jpeg){width="3.5em"}](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur) - [Mehmet K. Samur](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur), Harvard University, Dana-Farber cancer institute.
+[![](images/people/mehmet_samur.jpeg){width="3.5em"}](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur) - [Mehmet K. Samur](https://www.dana-farber.org/find-a-doctor/mehmet-k-samur), Harvard University, Dana-Farber cancer institute. [Postdoc benefactor:)]{.orange}
 
 <!-- Cathy -->
 

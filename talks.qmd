@@ -2,6 +2,12 @@
 
 [2025]{.blue}
 
+-   [JSM2025](https://ww2.amstat.org/meetings/jsm/2025/index.cfm), Nashville, TN - *Ecological Modeling via Bayesian Nonparametric Species Sampling Priors* - [Invited talk]{.gred} - The Savage Dissertation Award.  
+
+-   [BNP14](https://bnp14.org/program/), Los Angeles, CA - *Topography-dependent mutational signature analysis via Poisson process factorization* - [Contributed talk]{.gyellow} 
+
+-   [ENAR2025](https://www.enar.org/meetings/spring2025/), New Orleans, LA - *Compressive Bayesian non-negative matrix factorization for mutational signature analysis.* - [Contributed talk]{.gyellow} 
+
 -   [Brown University, Data Science Initiative](https://events.brown.edu/dsi/event/291116-data-matters-seminar-compressive-bayesian-n), Providence, RI, USA - *Compressive Bayesian non-negative matrix factorization for mutational signature analysis.* - [Invited seminar]{.gred} [Video](https://www.youtube.com/watch?v=3y8KRxawYYk)
 
 
@@ -43,6 +49,13 @@
 
 ### Sessions organized and chaired
 
+-   [JSM2025](https://ww2.amstat.org/meetings/jsm/2025/index.cfm), Nashville, TN. Organizer and chair of **Advances in Bayesian Facotrization methods in Genomics and Medicine**, invited session . Speakers:
+    -   [Adolphus Wagala](https://scholar.google.com/citations?user=Uq2lFd4AAAAJ&hl=en), Dana-Farber Cancer Institute - *Bayesian boolean matrix factorization for copy number alterations in multiple myeloma*.
+    -   [Jonathan Huggins](http://jhhuggins.org/), Boston Univeristy - *Structurally aware robust rank selection for probabilistic matrix factorization*.
+    -   [Sarah Urbut](https://scholar.google.com/citations?user=iafjMbAAAAAJ&hl=en), Broad Institute <-- **Replaced by me**.
+    -   [Niccolo Anceschi](https://niccoloanceschi.github.io/), Duke University - *Spectral decomposition-assisted multi-study factor analysis*.
+    -   *Discussion* by [Peter Carbonetto](https://pcarbo.github.io/), The University of Chicago University.
+    
 -   [ISBA2024](https://www.unive.it/web/en/2208/home), Venice, Italy. Organizer and chair of **Bayesian methods in Ecology**, invited session . Speakers:
     -   [Bokgyeong Kang](https://bokgyeong.github.io/), Duke University - *Analyzing whale calls through Hawkes processes modeling*.
     -   [Michele Peruzzi](https://mkln.it/), University of Michigan - *Bayesian multi-species N-mixture models for large scale spatial data in community ecology*.

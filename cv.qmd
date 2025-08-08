@@ -116,7 +116,7 @@
 
 ### Awards {.central}
 - \[[2025]{.blue}\]:  Travel grant (on competitive basis) for the [BNP14](https://bnp14.org/), Los Angeles, CA, USA. ($1000)
-- \[[2024]{.blue}\]: Finalist for the [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/). Winner announced August 2025.
+- \[[2024]{.blue}\]: [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) ($1000) 
 -   \[[2023]{.blue}\]: [PQG travel award](https://www.hsph.harvard.edu/pqg/studentpostdoc-travel-fund/), Harvard T.H. Chan School of Public Health. ($500)
 -   \[[2022]{.blue}\]: [BEST award for Ph.D. Student Research](https://stat.duke.edu/news/best-award-winners-2022) for the paper *Bayesian modeling of sequential discoveries*, Department of Statistical Science, Duke University. ($500)
 -   \[[2022]{.blue}\]: Poster award at the [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/), Montreal, Canada. (Won a book!)
@@ -133,14 +133,21 @@
 -   \[[Fall 2021]{.blue}\] - Teaching assistant, STA610 - Hiearchical models (graduate). Instructor: [Olanrewaju (Michael) Akande](https://www.olanrewajuakande.com/aboutme/). Duke University.
 -   \[[Fall 2020]{.blue}\] - Teaching assistant, STA601 - Bayesian statistics (graduate). Instructor: [David B. Dunson](https://www.daviddunson.com/). Duke University. [Recipient of the 2021 Ph.D. Teaching assistant of the Year]{.orange}.
 -   \[[Spring 2020]{.blue}\] - Teaching assistant, STA360 - Bayesian statistics (undergraduate). Instructor: [Simon Mak](https://sites.google.com/view/simonmak/home). Duke University.
+-   \[[2016-2018]{.blue}\] - Instructor at [TEST WE CAN srl](https://www.amazon.it/Manuale-TestWeCan/dp/B08YHDN38H) - a complete coursework designed to prepare high school students for the Bocconi admission test. 
 
-### Editorial work
+### Editorial and Referee work
 
 -   I have served as reviewer for the following journals: *Electronic Journal of Statistics*, *Bayesian Analysis*, *Ecography*, *Philosophical transactions of the Royal Society A*, *Computational Statistics & Data Analysis*.
 
+-   I have been a reviewer for the [SBSS Student Paper competition award at JSM2025](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
+
 ### Service to the community
 
-- From January 2025, I will be serving on the Board of j-ISBA under the role of Treasurer
+-  \[[2025-2027]{.blue}\], Treasurer in the [j-ISBA board](https://j-isba.github.io/officers.html). Duties so far:
+    - Part of the Scientific committee for BAYSM 2025 (held online) 
+    - Lead organizer of the [2025 Blackwell-Rosembluth award](https://j-isba.github.io/blackwell-rosenbluth.html) (UTC-)
+    - Organizer of BAYSM 2026, Nagoya, Japan.
+
 
 ### Skills
 

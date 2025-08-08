@@ -6,7 +6,7 @@ My current line of work involves improving on Bayesian non-negative matrix facto
 
 During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
 
-I have been selected as a finalist for the 2024 [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) for my Ph.D. thesis. The winner will be announced August 2025 at JSM in Nashville. You can read my dissertation below. 
+In recognition of my doctoral dissertation, I received the 2024 [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/). Read it below! 
 
 [Ph.D. Dissertation](files/thesis_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Dissertation"} [Ph.D. defense slides](files/defense_alezito.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Defense slides"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Google scholar"}
 
@@ -24,7 +24,7 @@ I have been selected as a finalist for the 2024 [Savage Award in Applied Methodo
 #### [Articles in refereed journals]{.blue} {.central}
 
 
-1.  Lee, C. J., [Zito, A.]{style="text-decoration: underline;"}, Sang, H., and Dunson, D. B. (2024+). **Logistic-Beta Processes for dependent random probabilities with beta marginals**. [*Bayesian Analysis*]{.black}, in press [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
+1.  Lee, C. J., [Zito, A.]{style="text-decoration: underline;"}, Sang, H., and Dunson, D. B. (2025). **Logistic-Beta Processes for dependent random probabilities with beta marginals**. [*Bayesian Analysis*]{.black}, in press [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
 
 
 1. [Zito, A.]{style="text-decoration: underline;"}, Greaves, D., Soriano, J. and Richardson, L. (2025). **Pareto optimal proxy metrics**. *Applied Stochastic Models in Business and Industry*, 41: e70003 [\[Pub\]](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70003)[\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
@@ -36,6 +36,9 @@ I have been selected as a finalist for the 2024 [Savage Award in Applied Methodo
 3.  [Zito, A.]{style="text-decoration: underline;"}, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023). **Bayesian modeling of sequential discoveries**. [*Journal of the American Statistical Association (T&M)*]{.black}, *118*(544), 2521--2532. [\[Pub\]](https://doi.org/10.1080/01621459.2022.2060835) [\[Manuscript\]](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [\[R package\]](https://github.com/alessandrozito/BNPvegan) - [*Best Student/Postdoc Contributed paper award at IBSA2021 world meeting.*]{.orange} - [*BEST award for Ph.D. student research 2022, Dept. of Statistical Science, Duke University*]{.pink}
 
 #### [Refereed conference proceedings and discussions]{.blue} {.central}
+
+1. [Zito, A.]{style="text-decoration: underline;"}, Xue, C., and Miller, J. W. (2025). **Accounting for Transcriptional Asymmetries in Mutational Signature Analysis Using Compressive Bayesian Non-negative Matrix Factorization**
+In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) [*Statistics for Innovation IV. SIS 2025. Italian Statistical Society Series on Advances in Statistics](https://link.springer.com/chapter/10.1007/978-3-031-96033-8_81). Springer, Cham.
 
 1. [Zito, A.]{style="text-decoration: underline;"} and Miller, J. W. (2024). **Discussion to "Sparse Bayesian factor analysis
 when the number of factors is unknown"** by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L., [*Bayesian Analysis*]{.black} [\[Pub\]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
