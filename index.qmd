@@ -41,16 +41,16 @@ I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duk
 
 My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
 
-[Primary e-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
+[E-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
 
-[Secondary e-mail]{.blue} - [azito\@ds.dfci.harvard.edu](azito@ds.dfci.harvard.edu)
+My research interests include Bayesian statistics, Bayesian nonparametrics, factorization models for cancer genomics, mutational signature analysis and ecology.
 
-My research interests include Bayesian statistics, Bayesian nonparametrics and factor models for cancer genomics, mutational signature analysis and ecology.
+**I am on the Job Market for Assistant Professor**
 
 ## News 
 
-[I received the 2024 Savage Award in Applied Methodology!]{.gblue} for my dissertation
-"Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" :)
+[I received the Savage Award in Applied Methodology!]{.gblue} for my dissertation
+"Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" 
 
 [I have been officially elected j-ISBA treasurer!]{.gred} Looking forward to help 
 the community of young Bayesians across all continents! 
