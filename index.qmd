@@ -47,13 +47,11 @@ My research interests include Bayesian statistics, Bayesian nonparametrics, fact
 
 **I am on the Job Market for Assistant Professor**
 
-## News 
+## News
 
-[I received the Savage Award in Applied Methodology!]{.gblue} for my dissertation
-"Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" 
+[I received the Savage Award in Applied Methodology!]{.gblue} for my dissertation "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors"
 
-[I have been officially elected j-ISBA treasurer!]{.gred} Looking forward to help 
-the community of young Bayesians across all continents! 
+[I have been officially elected j-ISBA treasurer!]{.gred} Looking forward to help the community of young Bayesians across all continents!
 
 ------------------------------------------------------------------------
 

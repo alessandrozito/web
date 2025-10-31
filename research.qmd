@@ -14,7 +14,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 #### [Preprints]{.blue} {.central}
 
-1. [Zito, A.]{style="text-decoration: underline;"}, Parmigiani, G. and Miller, J. W. (2025). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Submitted*]{.black}. [\[Manuscript\]](https://drive.google.com/file/d/1E-erfLI7zP1tHvuQ1ajP4rXnCpnwAo9S/view?usp=sharing) [\[arXiv\]](https://drive.google.com/file/d/1E-erfLI7zP1tHvuQ1ajP4rXnCpnwAo9S/view?usp=sharing)
+1. [Zito, A.]{style="text-decoration: underline;"}, Parmigiani, G. and Miller, J. W. (2025). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Submitted*]{.black}.  [\[arXiv\]](https://arxiv.org/abs/2510.26090)
 
 1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Submitted*]{.black}. [\[bioaRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
 
