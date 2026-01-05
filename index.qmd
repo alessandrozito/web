@@ -43,15 +43,15 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 
 [E-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
 
-My research interests include Bayesian statistics, Bayesian nonparametrics, factorization models for cancer genomics, mutational signature analysis and ecology.
+My research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology. 
 
 **I am on the Job Market for Assistant Professor**
 
-## News
+## Current highlights
 
-[I received the Savage Award in Applied Methodology!]{.gblue} for my dissertation "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors"
+[I received the Savage Award in Applied Methodology]{.gblue} for my dissertation "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" :) 
 
-[I have been officially elected j-ISBA treasurer!]{.gred} Looking forward to help the community of young Bayesians across all continents!
+[I am an elected official of j-ISBA]{.gred} Looking forward to help the community of young Bayesians across all continents!
 
 ------------------------------------------------------------------------
 

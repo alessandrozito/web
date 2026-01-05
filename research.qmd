@@ -2,7 +2,7 @@
 
 I am strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusions.
 
-My current line of work involves improving on Bayesian non-negative matrix factorization algorithms, with a strong emphasis on cancer genomics and mutational signatures analysis. I am also developing regression models for biodiversity estimation.
+My current line of work involves developing stochastic process models appplied to cancer genomics and mutational signatures analysis. I am also developing AI models for large-scale biodiversity estimation.
 
 During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) in Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
 
@@ -48,7 +48,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 #### [Manuscripts in preparation]{.darkred} {.central}
 
-1.  **Zito, A.**, Rigon T., Niittynen and Roslin T., Niittynen, P., Hebert P. D. N., the iBOL consortium, Ovaskainen O. and Dunson D. B. (2025). Coviariate-dependent biodiversity measures via the Hubbell regression. *expected submission: December 2025*
+1.  **Zito, A.**, Rigon T., Niittynen and Roslin T., Niittynen, P., Hebert P. D. N., the iBOL consortium, Ovaskainen O. and Dunson D. B. (2025). Coviariate-dependent biodiversity measures via the Hubbell regression. 
 
 1.  **Zito, A.**, Parmigiani, G., Miller, J. W. and Samur, M. (2025+). Joint analysis of mutational process in DNA and RNA from multiple myeloma.
 
