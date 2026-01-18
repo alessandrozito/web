@@ -137,7 +137,7 @@
 
 ### Editorial and Referee work
 
--   I have served as reviewer for the following journals: *Electronic Journal of Statistics*, *Bayesian Analysis*, *Ecography*, *Philosophical transactions of the Royal Society A*, *Computational Statistics & Data Analysis*.
+-   I have served as reviewer for the following journals: *Journal of the American Statistical Association*, *Journal of Computational and Graphical Statistics*, *Electronic Journal of Statistics*, *Bayesian Analysis*, *Ecography*, *Philosophical transactions of the Royal Society A*, *Computational Statistics & Data Analysis*.
 
 -   I have been a reviewer for the [SBSS Student Paper competition award at JSM2025](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
 

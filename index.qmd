@@ -45,7 +45,6 @@ My curriculum vitae is available [here](files/resume_alezito.pdf). A complete li
 
 My research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology. 
 
-**I am on the Job Market for Assistant Professor**
 
 ## Current highlights
 
