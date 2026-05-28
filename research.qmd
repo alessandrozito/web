@@ -1,10 +1,14 @@
 ## Research highlights {.central}
 
-I am strongly motivated by application, which serves as a base for developing new statistical methodologies. My goal is to create simple yet effective methods that are theoretically justified and useful to practitioners who need to draw scientific conclusions.
+I develop statistical methodologies to aid scientific discovery.
 
-My current line of work involves developing stochastic process models appplied to cancer genomics and mutational signatures analysis. I am also developing AI models for large-scale biodiversity estimation.
+My current line of work involves a combination of theory, methods, and application. These include
 
-During my Ph.D. at Duke, I developed Bayesian nonparametric methodologies under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) in Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
+- Probabilistic machine learning methods for large-scale biodiversity assessment
+- Generative stochastic process frameworks for genomic data
+- Bayesian Non-negative matrix factorization algorithms
+- Flexible nonparametric models for density estimation
+- Biological investigation of somatic modification in cancer and RNA editing
 
 In recognition of my doctoral dissertation, I received the [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) at the 2025 Joint Statistical Meeting. Read it below!
 
@@ -14,13 +18,15 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 #### [Preprints]{.blue} {.central}
 
-1. [Zito, A.]{style="text-decoration: underline;"}, Parmigiani, G. and Miller, J. W. (2025). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Submitted*]{.black}.  [\[arXiv\]](https://arxiv.org/abs/2510.26090)
+1. Modi, A., [Zito, A.]{style="text-decoration: underline;"}, and Parmigiani, G. (2026). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Submitted to Genome Biology*]{.black}.  [\[bioaRxiv\]](https://www.biorxiv.org/content/10.64898/2026.05.22.727283v1)
 
-1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Submitted*]{.black}. [\[bioaRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
+1. [Zito, A.]{style="text-decoration: underline;"}, Parmigiani, G. and Miller, J. W. (2025). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Under review at Journal of the American Statistical Association*]{.black}.  [\[arXiv\]](https://arxiv.org/abs/2510.26090)
+
+1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Methods in Ecology and Evolution, Minor Revision*]{.black}. [\[bioaRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
 
 1.  Xue, C., [Zito, A.]{style="text-decoration: underline;"} and Miller, J. W. (2024). **Improved control of Dirichlet location and scale near the boundary**. [*Invited Reject and Resubmit from Bayesian Analysis*]{.black} [\[ArXiv\]](https://arxiv.org/abs/2410.13050) [\[GitHub\]](https://github.com/casxue/ImprovedDirichlet) - [*JSM 2025 SBSS student paper competition award received by Cathy Xue*]{.orange}
 
-2.  [Zito, A.]{style="text-decoration: underline;"} and Miller, J. W. (2024). **Compressive Bayesian non-negative matrix factorization for mutational signature analysis**. [*Under review at Biometrics Methodology*]{.black}. [\[ArXiv\]](https://arxiv.org/abs/2404.10974) [\[GitHub\]](https://github.com/alessandrozito/CompressiveNMF)
+2.  [Zito, A.]{style="text-decoration: underline;"} and Miller, J. W. (2024). **Compressive Bayesian non-negative matrix factorization for mutational signature analysis**. [*Biometrics, Major Revision*]{.black}. [\[ArXiv\]](https://arxiv.org/abs/2404.10974) [\[GitHub\]](https://github.com/alessandrozito/CompressiveNMF)
 
 ------------------------------------------------------------------------
 
