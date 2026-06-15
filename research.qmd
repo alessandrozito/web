@@ -18,13 +18,11 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 #### [Preprints]{.blue} {.central}
 
-1.  **Zito, A.**, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N.,  iBOL consortium, Ovaskainen O. and Dunson D. B. (2026). **Predicting global biodiversity via Hubbell regression**. [*Submitted to ?? :)*]{.black} [\[bioRxiv\]](https://www.biorxiv.org/content/)
+1.  [Zito, A.]{style="text-decoration: underline;"}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N.,  iBOL consortium, Ovaskainen O. and Dunson D. B. (2026). **Predicting global biodiversity via Hubbell regression**. [*Submitted to ?? :)*]{.black} [\[bioRxiv\]](https://www.biorxiv.org/content/)
 
-1. Modi, A., [Zito, A.]{style="text-decoration: underline;"}, and Parmigiani, G. (2026). **Pan-Cancer Genomic Scars of Alternative End Joining and Single-Strand Annealing**. [*Submitted to NAR Cancer *]{.black}.  [\[bioRxiv\]](https://www.biorxiv.org/content/10.64898/2026.05.22.727283v1)
+1. Modi, A., [Zito, A.]{style="text-decoration: underline;"}, and Parmigiani, G. (2026). **Pan-Cancer Genomic Scars of Alternative End Joining and Single-Strand Annealing**. [*Submitted to BMC Cancer *]{.black}.  [\[bioRxiv\]](https://www.biorxiv.org/content/10.64898/2026.05.22.727283v1)
 
 1. [Zito, A.]{style="text-decoration: underline;"}, Parmigiani, G. and Miller, J. W. (2025). **Poisson process factorization for mutational signature analysis with genomic covariates**. [*Journal of the American Statistical Association ACS, Major Revision*]{.black}.  [\[arXiv\]](https://arxiv.org/abs/2510.26090)
-
-1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Methods in Ecology and Evolution, Minor Revision*]{.black}. [\[bioRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
 
 1.  Xue, C., [Zito, A.]{style="text-decoration: underline;"} and Miller, J. W. (2024). **Improved control of Dirichlet location and scale near the boundary**. [*Bayesian Analysis, R&R*]{.black} [\[ArXiv\]](https://arxiv.org/abs/2410.13050) [\[GitHub\]](https://github.com/casxue/ImprovedDirichlet) - [*JSM 2025 SBSS student paper competition award received by Cathy Xue*]{.orange}
 
@@ -33,6 +31,9 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 ------------------------------------------------------------------------
 
 #### [Articles in refereed journals]{.blue} {.central}
+
+1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Methods in Ecology and Evolution*]{.black}, in press [\[bioRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
+
 
 1.  Lee, C. J., [Zito, A.]{style="text-decoration: underline;"}, Sang, H., and Dunson, D. B. (2025). **Logistic-Beta Processes for dependent random probabilities with beta marginals**. [*Bayesian Analysis*]{.black}, in press [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
 
