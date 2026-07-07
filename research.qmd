@@ -35,7 +35,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 1.  Orsholm, J.\*, [Zito, A.]{style="text-decoration: underline;"}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025). **Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**. [*Methods in Ecology and Evolution*]{.black}, in press [\[bioRxiv\]](https://doi.org/10.1101/2025.10.13.681976)
 
 
-1.  Lee, C. J., [Zito, A.]{style="text-decoration: underline;"}, Sang, H., and Dunson, D. B. (2025). **Logistic-Beta Processes for dependent random probabilities with beta marginals**. [*Bayesian Analysis*]{.black}, in press [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce)
+1.  Lee, C. J., [Zito, A.]{style="text-decoration: underline;"}, Sang, H., and Dunson, D. B. (2025). **Logistic-Beta Processes for dependent random probabilities with beta marginals**. [*Bayesian Analysis*]{.black}, in press [\[ArXiv\]](https://arxiv.org/pdf/2402.07048.pdf) [\[GitHub\]](https://github.com/changwoo-lee/logisticbeta-reproduce) - [*Lindley Prize 2025 - honorable mention*]{.orange}
 
 2.  [Zito, A.]{style="text-decoration: underline;"}, Greaves, D., Soriano, J. and Richardson, L. (2025). **Pareto optimal proxy metrics**. *Applied Stochastic Models in Business and Industry*, 41: e70003 [\[Pub\]](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70003)[\[ArXiv\]](https://arxiv.org/pdf/2307.01000.pdf)
 
