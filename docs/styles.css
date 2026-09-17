@@ -115,6 +115,16 @@ h1.left, h2.left, h3.left, h4.left, h5.left, h6.left {
        photo with a ~1em gutter either side at every width. */
     flex: 0 0 auto;
     width: 23em;
+
+    /* Stay put while the About me column scrolls past. `align-self` must
+       not be `stretch`, or the item fills the row and has nothing to
+       stick within.
+       `top` is set to where the column already sits at rest -- the fixed
+       navbar (4rem) plus the trestles' own 3em top padding -- so it locks
+       immediately instead of drifting ~38px upward and then snapping. */
+    position: sticky;
+    top: 7.3rem;
+    align-self: flex-start;
   }
 }
 
@@ -279,4 +289,35 @@ h1.left, h2.left, h3.left, h4.left, h5.left, h6.left {
 
 h1.right, h2.right, h3.right, h4.right, h5.right, h6.right {
   text-align: right;
+}
+
+
+/* Papers page: keep the dissertation column in view while the
+   publication list scrolls past it.
+   The sticky must go on Quarto's margin CONTAINER, not on the aside
+   itself: Quarto gives that container `no-row-height` (~15px) so it does
+   not stretch the grid row, and a sticky child has no room to travel
+   inside a 15px parent. The container's own parent is <main>, which is
+   the full height of the page, so it sticks there and the taller aside
+   rides along (overflow is visible). */
+@media (min-width: 992px) {
+  .column-margin.column-container:has(> .dissertation-aside) {
+    position: sticky;
+    top: 7.3rem;
+  }
+}
+
+/* Short summary above the dissertation block in the margin column */
+.aside-highlight {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid #DDE3EC;
+}
+
+
+/* Kill the elastic overscroll ("rubber band") at the top and bottom of the
+   page. Without this, hitting either scroll limit bounces the whole
+   document, which reads as the pinned navbar and sticky columns dragging. */
+html {
+  overscroll-behavior-y: none;
 }

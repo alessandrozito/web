@@ -2,6 +2,16 @@
 
 In my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.
 
+### Interactive tools
+
+[**Hubbell GLM Atlas**]{.forestgreen}
+
+[An interactive atlas of DNA barcode-based arthropod composition across 1,346 passive-sampling monitoring sites from the Global Malaise Trap Program. Click a site to explore order composition, seasonal phenology, rarefaction and site-exclusive BINs. Companion to [Zito et al. (2026), *Predicting global biodiversity via Hubbell regression*](research.html).]{style="font-size: 80%;"}
+
+[Open the atlas](https://hubbellglm.org/arthropod-biodiversity/){.btn .btn-outline-primary role="button" target="_blank"}
+
+------------------------------------------------------------------------
+
 ### R-packages
 
 ::: {layout="[25, 0, 75]"}

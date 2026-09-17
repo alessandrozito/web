@@ -1,4 +1,11 @@
 ::: {.column-margin .dissertation-aside}
+::: {.aside-highlight}
+#### Highlight
+
+I develop flexible machine-learning and AI methods for large scale data with the goal of uncovering hidden structures,
+primarily in cancer biology and ecology
+:::
+
 #### Dissertation
 
 In recognition of my doctoral dissertation, I received the [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) at the 2025 Joint Statistical Meeting.
@@ -15,7 +22,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
     [Manuscript available upon request]{.status}
 
 1.  [Zito, A.]{.me}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N., iBOL consortium, Ovaskainen O. and Dunson D. B. (2026).<br>**Predicting global biodiversity via Hubbell regression**<br>
-    [Submitted to ?? :)]{.status} [[bioRxiv](https://www.biorxiv.org/content/)]{.paper-links}
+    [Submitted to ?? :)]{.status} [[bioRxiv](https://www.biorxiv.org/content/) [Atlas](https://hubbellglm.org/arthropod-biodiversity/)]{.paper-links}
 
 1.  [Zito, A.]{.me}, Parmigiani, G. and Miller, J. W. (2025).<br>**Poisson process factorization for modeling mutational processes along cancer genomes**<br>
     [Journal of the American Statistical Association ACS]{.journal}, [Major Revision]{.status} [[arXiv](https://arxiv.org/abs/2510.26090)]{.paper-links}

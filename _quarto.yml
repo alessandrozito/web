@@ -9,6 +9,7 @@ website:
   favicon: images/painting.jpeg
   description: "Alessandro Zito is a statistician and a data scientist working on cancer genomics and ecology."
   navbar: 
+    pinned: true
     title: Ale Zito
     logo: images/painting.jpeg
     left:
