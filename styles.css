@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,800&family=Nunito:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Tibetan:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,800&family=Nunito:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
 
 // fonts
 $font-family-sans-serif: "Noto", sans-serif !default; 
@@ -10,9 +10,28 @@ $font-family-sans-serif: "Noto", sans-serif !default;
     background-color: #D0D7E8 !important;
 }
 
+/* The section you are currently on, in Harvard crimson */
+.navbar .navbar-nav .nav-link.active {
+    color: #A51C30 !important;
+    font-weight: 700;
+}
 
+
+/* Note: this centres `.central h2` AND *every* h3/h4 on the site (the
+   comma makes `h3` and `h4` standalone selectors). That is what keeps the
+   CV, Software, Talks and Collaborators section headings centred, so it is
+   left as-is. Add {.left} to a heading to opt out. */
 .central h2, h3, h4 {
   text-align: center;
+}
+
+/* Heading alignment overrides.
+   Quarto puts a heading's attribute class on BOTH the <h*> and the
+   <section> that wraps it, so an unscoped `.left`/`.right` rule would
+   re-align every paragraph and list inside that section too. Scope to
+   the heading element. */
+h1.left, h2.left, h3.left, h4.left, h5.left, h6.left {
+  text-align: left;
 }
 
 /*-- scss:rules --*/
@@ -81,3 +100,183 @@ $font-family-sans-serif: "Noto", sans-serif !default;
 }
 
 
+
+/* Front page: pull the photo column in from the left.
+   Quarto's trestles template gives the photo column 42% and centres the
+   image inside it, which leaves a wide gap on the left. Narrowing the
+   column shifts the photo left and widens the text column.
+   Scoped to >=992px, where trestles is side-by-side; below that it
+   stacks and must stay full width. */
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity {
+    /* A fixed width, not a percentage: the page is `page-layout: full`,
+       so a percentage column grows with the monitor and the centred photo
+       drifts back toward the middle on a wide screen. 23em holds the 20em
+       photo with a ~1em gutter either side at every width. */
+    flex: 0 0 auto;
+    width: 23em;
+  }
+}
+
+
+/* ======================================================================
+   Front page emphasis
+   ====================================================================== */
+
+/* The lead line: the one sentence a visitor should read. */
+.lead-tagline {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.62rem;
+  line-height: 1.32;
+  font-weight: 400;
+  margin: 0.2rem 0 1rem;
+}
+
+.lead-tagline .accent {
+  color: #A51C30;
+}
+
+/* Awards / honours */
+.awards-box {
+  padding: 0.1rem 0 0.1rem 0.9rem;
+  margin: 1.3rem 0 0.5rem;
+  border-left: 2px solid #DDE3EC;
+  font-size: 0.93rem;
+}
+
+.awards-box .awards-intro {
+  color: #5B6169;
+  margin-bottom: 0.3rem;
+}
+
+.awards-box ul {
+  margin: 0;
+  padding-left: 1.15rem;
+  line-height: 1.55;
+}
+
+.awards-box li {
+  margin-bottom: 0.15rem;
+}
+
+.awards-box li::marker {
+  color: #B4BCC8;
+}
+
+/* Research-area tags */
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.2rem 0 1.4rem;
+}
+
+/* One row per area, so the colour groups stay on their own lines
+   instead of reflowing into each other. */
+.tag-groups {
+  margin: 0.2rem 0 1.2rem;
+}
+
+.tag-groups .tag-row {
+  margin: 0 0 0.42rem;
+}
+
+.tag-row .tag {
+  font-size: 0.87rem;
+  padding: 0.26rem 0.8rem;
+  border-radius: 999px;
+  line-height: 1.45;
+  white-space: nowrap;
+}
+
+.tag-row .t-bio   { background: rgba(0, 144, 81, 0.11);  color: #0F6E56; }
+.tag-row .t-canc  { background: rgba(165, 28, 48, 0.10); color: #A51C30; }
+.tag-row .t-found { background: rgba(31, 61, 122, 0.10); color: #1F3D7A; }
+.tag-row .t-dec   { background: rgba(201, 122, 11, 0.13); color: #854F0B; }
+
+/* ======================================================================
+   Papers page
+   ====================================================================== */
+
+/* My own name in an author list */
+.me {
+  text-decoration: underline;
+}
+
+/* Journal / venue */
+.journal {
+  color: #A51C30;
+  font-style: italic;
+}
+
+/* Publication status: in press, minor revision, ... */
+.status {
+  color: #5B6169;
+  font-style: italic;
+}
+
+/* Each entry reads as a block rather than a run-on line */
+.paper-list ol {
+  padding-left: 1.4rem;
+}
+
+.paper-list li {
+  margin-bottom: 1.1rem;
+  line-height: 1.5;
+}
+
+.paper-list li::marker {
+  color: #5B6169;
+}
+
+/* Link pills sit inline, right after the journal name. */
+.paper-links a {
+  display: inline-block;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  padding: 0.05rem 0.62rem;
+  margin: 0 0.2rem 0 0;
+  border: 1px solid #DDE3EC;
+  border-radius: 999px;
+  background: #FFFFFF;
+  color: #5B6169 !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.paper-links a:hover {
+  border-color: #1F3D7A;
+  color: #1F3D7A !important;
+  background: rgba(31, 61, 122, 0.05);
+}
+
+/* Awards as tags, sitting alongside the link pills */
+.award-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  padding: 0.05rem 0.62rem;
+  margin: 0.25rem 0.25rem 0 0;
+  border-radius: 999px;
+  background: rgba(201, 122, 11, 0.14);
+  color: #854F0B;
+}
+
+/* Dissertation block in the right margin column of the Papers page */
+.dissertation-aside h4 {
+  text-align: left;
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+.dissertation-aside .btn {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.35rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+h1.right, h2.right, h3.right, h4.right, h5.right, h6.right {
+  text-align: right;
+}

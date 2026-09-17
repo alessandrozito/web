@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Zito"
-subtitle: "Postodoctoral researcher at Harvard Biostatistics and Dana-Farber cancer institute"
+subtitle: "Postdoctoral researcher<br>Harvard SPH and Dana-Farber"
 page-layout: full
 about:
   template: trestles
@@ -10,47 +10,65 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: web/files/resume_alezito.pdf 
-#    - icon: envelope-at
-#      text: "Email address"
-#      href: "mailto: azito@hsph.harvard.edu"
-#    - icon: google
-#     text: "Google scholar"
-#      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
-#    - icon: github
-#      text: "Github"
-#      href: https://github.com/alessandrozito
-#    - icon: linkedin
-#      text: "Linkedin"
-#      href: https://www.linkedin.com/in/alessandro-zito-92b250153/
-#    - icon: researchgate
-#      text: "ResearchGate"
-#      href: https://www.researchgate.net/profile/Alessandro-Zito-7
-#    - icon: orcid-id
-#      text: "Orcid"
-#      href: https://orcid.org/0000-0001-8515-6503
+      href: files/resume_alezito.pdf
+    - icon: mortarboard-fill
+      text: "Google Scholar"
+      href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/alessandrozito
+    - icon: envelope-at
+      text: "Email"
+      href: "mailto:azito@hsph.harvard.edu"
 ---
 
 ## About me
 
-Welcome to my website!
+I am a Postdoctoral research fellow in Biostatistics at the [Harvard SPH](https://www.hsph.harvard.edu/biostatistics/) and the [Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers/data-science), where I work with Professors [Jeff Miller](https://jwmi.github.io/) and [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en). 
 
-I am a Postdoctoral research fellow in Biostatistics at the [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), where I am supervised by Professor [Jeffrey W. Miller](https://jwmi.github.io/) and Professor [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I am also affiliated with the Data Sciences department at the [Dana-Farber cancer institute](https://www.dana-farber.org/research/departments-centers/data-science).
+My goal is to develop statistical methods to model [hidden phenomena]{.red} in biology and environmental science.
 
-I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), in North Carolina, where I worked under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en) within Project [LIFEPLAN](https://www.helsinki.fi/en/projects/lifeplan), an international research group whose aim is to quantify biodiversity across the globe.
-
-My curriculum vitae is available [here](files/resume_alezito.pdf). A complete list of publications is available [here](research.qmd).
-
-[E-mail]{.harvardred} - [azito\@hsph.harvard.edu](azito@hsph.harvard.edu)
-
-My research interests include probabilistic machine learning, generative models and stochastic processes for cancer genomics, mutational signatures analysis, and ecology. 
+I am also an elected officer of [j-ISBA]{.blue}, the junior section of the International Society for Bayesian Analysis, supporting the community of young Bayesians across all continents.
 
 
-## Current highlights
+#### Research areas {.left}
 
-[I received the Savage Award in Applied Methodology]{.gblue} for my dissertation "Ecological Modeling via Bayesian Nonparametric Species Sampling Priors" :) 
+```{=html}
+<div class="tag-groups">
+<div class="tag-row">
+<span class="tag t-found">Probabilistic machine learning</span>
+<span class="tag t-found">Generative stochastic processes</span>
+<span class="tag t-found">Bayesian methods</span>
+</div>
+<div class="tag-row">
+<span class="tag t-dec">Decision theory for Agentic AI</span>
+<span class="tag t-dec">Multiverse analysis</span>
+<span class="tag t-dec">Experimentation</span>
+</div>
+<div class="tag-row">
+<span class="tag t-canc">Precision medicine</span>
+<span class="tag t-canc">Computational biology</span>
+<span class="tag t-canc">Cancer genomics</span>
+</div>
+<div class="tag-row">
+<span class="tag t-bio">AI for ecology</span>
+<span class="tag t-bio">Biodiversity</span>
+<span class="tag t-bio">DNA barcoding</span>
+</div>
+</div>
+```
 
-[I am an elected official of j-ISBA]{.gred} Looking forward to help the community of young Bayesians across all continents!
+```{=html}
+<div class="awards-box">
+For my research, I received
+<ul>
+<li><strong>Savage Award</strong> in Applied Methodology, JSM 2025</li>
+<li><strong>Lindley Prize</strong> (honorable mention) 2025</li>
+<li><strong>BEST award for Ph.D. student research</strong>, Dept. of Statistical Science, Duke University</li>
+</ul>
+</div>
+```
+
 
 ------------------------------------------------------------------------
 

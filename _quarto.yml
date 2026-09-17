@@ -17,7 +17,7 @@ website:
       - href: cv.qmd
         text: CV
       - href: research.qmd
-        text: Research
+        text: Papers
       - href: software.qmd
         text: Software
       - href: talks.qmd
@@ -35,7 +35,7 @@ website:
       **Address**: <br>
       655 Huntington Ave, Boston, MA 02115, United States <br>
       **Email**: <br>
-      [azito@hsph.harvard.edu](mailto: azito@hsph.harvard.edu) <br>
+      [azito@hsph.harvard.edu](mailto:azito@hsph.harvard.edu) <br>
       **Links**:<br>
       [{{< ai google-scholar size=31px >}}](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en) &nbsp; 
       [{{< iconify fa6-brands github size=30px >}}](https://github.com/alessandrozito) &nbsp; 
@@ -48,7 +48,7 @@ website:
     right: 
       - icon: envelope-at
         text: "azito@hsph.harvard.edu"
-        href: "mailto: azito@hsph.harvard.edu"
+        href: "mailto:azito@hsph.harvard.edu"
       
 include-in-header: 
   - text: |
@@ -76,7 +76,7 @@ format:
     grid:
       sidebar-width: 200px
       body-width: 1000px
-      margin-width: 200px
+      margin-width: 300px
     favicon: images/painting.jpeg
 
 
