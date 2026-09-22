@@ -1,88 +1,74 @@
 ::: {.column-margin .dissertation-aside}
-::: {.aside-highlight}
-#### Highlight
+::: aside-highlight
+### Highlight
 
-I develop flexible machine-learning and AI methods for large scale data with the goal of uncovering hidden structures,
-primarily in cancer biology and ecology
+I develop flexible machine-learning and AI methods for large scale data with the goal of uncovering hidden structures, primarily in cancer biology and ecology
 :::
 
-#### Dissertation
+### Dissertation
 
 In recognition of my doctoral dissertation, I received the [Savage Award in Applied Methodology](https://bayesian.org/project/savage-award/) at the 2025 Joint Statistical Meeting.
 
-[Ph.D. Dissertation](files/thesis_alezito.pdf){.btn .btn-outline-primary role="button"}
-[Ph.D. defense slides](files/defense_alezito.pdf){.btn .btn-outline-primary role="button"}
-[Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary role="button"}
+[Ph.D. Dissertation](files/thesis_alezito.pdf){.btn .btn-outline-primary role="button"} [Ph.D. defense slides](files/defense_alezito.pdf){.btn .btn-outline-primary role="button"} [Google Scholar](https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en){.btn .btn-outline-primary role="button"}
 :::
 
-#### [Preprints]{.blue} {.left}
+#### [Statistical methodology]{.blue} {.left}
 
-::: {.paper-list}
-1.  Parmigiani, G. and [Zito, A.]{.me} (2026).<br>**Multiverse analysis, Bayesian decision theory and agentic AI: drawing connections**<br>
-    [Manuscript available upon request]{.status}
+::: paper-list
+1.  [Zito, A.]{.me}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N., iBOL consortium, Ovaskainen O. and Dunson D. B. (2026).<br>**Predicting global biodiversity via Hubbell regression**<br> [Submitted to ?? :)]{.status} [[bioRxiv](https://www.biorxiv.org/content/) [Atlas](https://hubbellglm.org/arthropod-biodiversity/)]{.paper-links}
 
-1.  [Zito, A.]{.me}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N., iBOL consortium, Ovaskainen O. and Dunson D. B. (2026).<br>**Predicting global biodiversity via Hubbell regression**<br>
-    [Submitted to ?? :)]{.status} [[bioRxiv](https://www.biorxiv.org/content/) [Atlas](https://hubbellglm.org/arthropod-biodiversity/)]{.paper-links}
+1.  [Zito, A.]{.me}, Parmigiani, G. and Miller, J. W. (2025).<br>**Poisson process factorization for modeling mutational processes along cancer genomes**<br> [Journal of the American Statistical Association ACS]{.journal}, [Major Revision]{.status} [[arXiv](https://arxiv.org/abs/2510.26090)]{.paper-links}
 
-1.  [Zito, A.]{.me}, Parmigiani, G. and Miller, J. W. (2025).<br>**Poisson process factorization for modeling mutational processes along cancer genomes**<br>
-    [Journal of the American Statistical Association ACS]{.journal}, [Major Revision]{.status} [[arXiv](https://arxiv.org/abs/2510.26090)]{.paper-links}
+1.  [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Compressive Bayesian non-negative matrix factorization for mutational signature analysis**<br> [Biometrics]{.journal}, [minor revision]{.status} [[arXiv](https://arxiv.org/abs/2404.10974) [GitHub](https://github.com/alessandrozito/CompressiveNMF)]{.paper-links}
 
-1.  Xue, C., [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Improved control of Dirichlet location and scale near the boundary**<br>
-    [Bayesian Analysis]{.journal}, [R&R]{.status} [[arXiv](https://arxiv.org/abs/2410.13050) [GitHub](https://github.com/casxue/ImprovedDirichlet)]{.paper-links}<br>
-    [JSM 2025 SBSS student paper competition award — Cathy Xue]{.award-tag}
+1.  Xue, C., [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Improved control of Dirichlet location and scale near the boundary**<br> [Bayesian Analysis]{.journal}, [R&R]{.status} [[arXiv](https://arxiv.org/abs/2410.13050) [GitHub](https://github.com/casxue/ImprovedDirichlet)]{.paper-links}<br> [JSM 2025 SBSS student paper competition award — Cathy Xue]{.award-tag}
 
-1.  [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Compressive Bayesian non-negative matrix factorization for mutational signature analysis**<br>
-    [Biometrics]{.journal}, [minor revision]{.status} [[arXiv](https://arxiv.org/abs/2404.10974) [GitHub](https://github.com/alessandrozito/CompressiveNMF)]{.paper-links}
+1.  Lee, C. J., [Zito, A.]{.me}, Sang, H., and Dunson, D. B. (2025).<br>**Logistic-Beta Processes for dependent random probabilities with beta marginals**<br> [Bayesian Analysis]{.journal}, *20*(4), 1345--1369 [[Pub](https://doi.org/10.1214/25-BA1541) [arXiv](https://arxiv.org/pdf/2402.07048.pdf) [GitHub](https://github.com/changwoo-lee/logisticbeta-reproduce)]{.paper-links}<br> [Lindley Prize 2025 — honorable mention]{.award-tag}
+
+1.  [Zito, A.]{.me}, Rigon, T., and Dunson, D. B. (2026).<br>**Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors**<br> [Bayesian Analysis]{.journal}, *21*(1), 139--166 [[Pub](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full) [arXiv](https://arxiv.org/pdf/2306.02360.pdf) [R package](https://github.com/alessandrozito/ConjugateDP)]{.paper-links}
+
+1.  [Zito, A.]{.me}, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023).<br>**Bayesian modeling of sequential discoveries**<br> [Journal of the American Statistical Association (Theory & Methods)]{.journal}, *118*(544), 2521--2532 [[Pub](https://doi.org/10.1080/01621459.2022.2060835) [Manuscript](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [R package](https://github.com/alessandrozito/BNPvegan)]{.paper-links}<br> [Best paper award, ISBA 2021]{.award-tag} [BEST award for Ph.D. student research 2022, Duke University]{.award-tag}
 :::
 
 ------------------------------------------------------------------------
 
-#### [Articles in refereed journals]{.blue} {.left}
+#### [Applied work in ecology and cancer biology]{.blue} {.left}
 
-::: {.paper-list}
-1.  Modi, A., [Zito, A.]{.me} and Parmigiani, G. (2026).<br>**Pan-Cancer Genomic Scars of Alternative End Joining and Single-Strand Annealing**<br>
-    [BMC Cancer]{.journal}, [in press]{.status}
+::: paper-list
+1.  Modi, A., [Zito, A.]{.me} and Parmigiani, G. (2026).<br>**Pan-cancer genomic scars of alternative end joining and single-strand annealing**<br> [BMC Cancer]{.journal}, [in press]{.status}
 
-1.  Orsholm, J.\*, [Zito, A.]{.me}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025).<br>**Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**<br>
-    [Methods in Ecology and Evolution]{.journal}, [in press]{.status} [[Pub](https://doi.org/10.1111/2041-210x.70358) [bioRxiv](https://doi.org/10.1101/2025.10.13.681976)]{.paper-links}
+1.  Orsholm, J.\*, [Zito, A.]{.me}\*, Somervuo, P., Braga M, Chazlot, N, Roslin, T. and Furneaux, B. (2025).<br>**Discovering the unseen: a performance comparison of taxonomic classification methods under unknown DNA barcodes**<br> [Methods in Ecology and Evolution]{.journal}, [in press]{.status} [[Pub](https://doi.org/10.1111/2041-210x.70358) [bioRxiv](https://doi.org/10.1101/2025.10.13.681976)]{.paper-links}
 
-1.  Lee, C. J., [Zito, A.]{.me}, Sang, H., and Dunson, D. B. (2025).<br>**Logistic-Beta Processes for dependent random probabilities with beta marginals**<br>
-    [Bayesian Analysis]{.journal}, *20*(4), 1345--1369 [[Pub](https://doi.org/10.1214/25-BA1541) [arXiv](https://arxiv.org/pdf/2402.07048.pdf) [GitHub](https://github.com/changwoo-lee/logisticbeta-reproduce)]{.paper-links}<br>
-    [Lindley Prize 2025 — honorable mention]{.award-tag}
-
-1.  [Zito, A.]{.me}, Greaves, D., Soriano, J. and Richardson, L. (2025).<br>**Pareto optimal proxy metrics**<br>
-    [Applied Stochastic Models in Business and Industry]{.journal}, *41*: e70003 [[Pub](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70003) [arXiv](https://arxiv.org/pdf/2307.01000.pdf)]{.paper-links}
-
-1.  [Zito, A.]{.me}, Rigon, T., and Dunson, D. B. (2026).<br>**Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors**<br>
-    [Bayesian Analysis]{.journal}, *21*(1), 139--166 [[Pub](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full) [arXiv](https://arxiv.org/pdf/2306.02360.pdf) [R package](https://github.com/alessandrozito/ConjugateDP)]{.paper-links}
-
-1.  [Zito, A.]{.me}, Rigon, T., and Dunson, D. B. (2023).<br>**Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa**<br>
-    [Methods in Ecology and Evolution]{.journal}, *14*, 529--542 [[Pub](https://doi.org/10.1111/2041-210X.14009) [arXiv](https://arxiv.org/abs/2201.09782) [Code](https://doi.org/10.5281/zenodo.7150668) [R package](https://github.com/alessandrozito/BayesANT)]{.paper-links}<br>
-    [Best poster award, ISBA 2022]{.award-tag}
-
-1.  [Zito, A.]{.me}, Rigon, T., Ovaskainen, O., and Dunson, D. B. (2023).<br>**Bayesian modeling of sequential discoveries**<br>
-    [Journal of the American Statistical Association (Theory & Methods)]{.journal}, *118*(544), 2521--2532 [[Pub](https://doi.org/10.1080/01621459.2022.2060835) [Manuscript](https://drive.google.com/file/d/1pqPzylh3gu1NMkEY-vZwTJthd_pBPgAW/view) [R package](https://github.com/alessandrozito/BNPvegan)]{.paper-links}<br>
-    [Best paper award, ISBA 2021]{.award-tag}[BEST award for Ph.D. student research 2022, Duke University]{.award-tag}
+1.  [Zito, A.]{.me}, Rigon, T., and Dunson, D. B. (2023).<br>**Inferring taxonomic placement from DNA barcoding aiding in discovery of new taxa**<br> [Methods in Ecology and Evolution]{.journal}, *14*, 529--542 [[Pub](https://doi.org/10.1111/2041-210X.14009) [arXiv](https://arxiv.org/abs/2201.09782) [Code](https://doi.org/10.5281/zenodo.7150668) [R package](https://github.com/alessandrozito/BayesANT)]{.paper-links}<br> [Best poster award, ISBA 2022]{.award-tag}
 :::
+
+------------------------------------------------------------------------
+
+#### [Agentic AI and experimentation]{.blue} {.left}
+
+::: paper-list
+1.  Parmigiani, G. and [Zito, A.]{.me} (2026).<br>**Multiverse analysis, Bayesian decision theory and agentic AI: drawing connections**<br> [Invited submission to]{.status} [AStA Advances in Statistical Analysis]{.journal} [Manuscript available upon request]{.status}
+
+1.  [Zito, A.]{.me}, Greaves, D., Soriano, J. and Richardson, L. (2025).<br>**Pareto optimal proxy metrics**<br> [Applied Stochastic Models in Business and Industry]{.journal}, *41*: e70003 [[Pub](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70003) [arXiv](https://arxiv.org/pdf/2307.01000.pdf)]{.paper-links}
+:::
+
+------------------------------------------------------------------------
 
 #### [Refereed conference proceedings and discussions]{.blue} {.left}
 
-::: {.paper-list}
-1.  [Zito, A.]{.me}, Xue, C., and Miller, J. W. (2025).<br>**Accounting for Transcriptional Asymmetries in Mutational Signature Analysis Using Compressive Bayesian Non-negative Matrix Factorization**<br>
-    In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) [Statistics for Innovation IV. SIS 2025. Italian Statistical Society Series on Advances in Statistics]{.journal}. Springer, Cham
+::: paper-list
+1.  [Zito, A.]{.me}, Xue, C., and Miller, J. W. (2025).<br>**Accounting for Transcriptional Asymmetries in Mutational Signature Analysis Using Compressive Bayesian Non-negative Matrix Factorization**<br> In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) [Statistics for Innovation IV. SIS 2025. Italian Statistical Society Series on Advances in Statistics]{.journal}. Springer, Cham
 
-1.  [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Discussion to "Sparse Bayesian factor analysis when the number of factors is unknown"** by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L.<br>
-    [Bayesian Analysis]{.journal} [[Pub](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)]{.paper-links}
+1.  [Zito, A.]{.me} and Miller, J. W. (2024).<br>**Discussion to "Sparse Bayesian factor analysis when the number of factors is unknown"** by Fruhwirth--Schnatter, S., Hosszejini, D., and Lopes, F. L.<br> [Bayesian Analysis]{.journal} [[Pub](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)]{.paper-links}
 
-1.  [Zito, A.]{.me}, Rigon, T. and Dunson, D. B. (2021).<br>**Modelling of accumulation curves through Weibull survival functions**<br>
-    In [Book of Short Papers of the Italian Statistical Society 2021]{.journal} (Perna, C., Salvati, N. and Schirripa Spagnolo, F., editors). ISBN: 9788891927361 [[Part 1](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-1.pdf) [Part 2](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-2.pdf)]{.paper-links}
+1.  [Zito, A.]{.me}, Rigon, T. and Dunson, D. B. (2021).<br>**Modelling of accumulation curves through Weibull survival functions**<br> In [Book of Short Papers of the Italian Statistical Society 2021]{.journal} (Perna, C., Salvati, N. and Schirripa Spagnolo, F., editors). ISBN: 9788891927361 [[Part 1](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-1.pdf) [Part 2](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/pearson-sis-book-2021-parte-2.pdf)]{.paper-links}
 :::
 
 ------------------------------------------------------------------------
 
-#### [Manuscripts in preparation]{.darkred} {.left}
+#### [In preparation]{.darkred} {.left}
 
-::: {.paper-list}
+::: paper-list
 1.  [Zito, A.]{.me}, Parmigiani, G., Miller, J. W. and Samur, M. (2026+).<br>**Joint analysis of mutational process in DNA and RNA from multiple myeloma**
 
 1.  Qian, Z., [Zito, A.]{.me}, Samur, M. and Parmigiani, G. (2026+).<br>**Temporal non-negative matrix factorization for diagnosis-relapse inference on mutational processes**

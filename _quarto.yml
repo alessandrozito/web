@@ -23,9 +23,12 @@ website:
         text: Software
       - href: talks.qmd
         text: Talks
+      - href: teaching.qmd
+        text: Teaching
+      - href: service.qmd
+        text: Service
       - href: colabs.qmd
         text: Collaborators
-    right:    
       - href: artwork.qmd
         text: alezitoart
     google-analytics: "G-BT2P82WGQJ"

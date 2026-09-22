@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -118,17 +118,23 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./teaching.html" rel="" target="">
+ <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./service.html" rel="" target="">
+ <span class="menu-text">Service</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./colabs.html" rel="" target="">
  <span class="menu-text">Collaborators</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./artwork.html" rel="" target="">
  <span class="menu-text">alezitoart</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools ms-auto">
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -138,120 +144,144 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
 
-<section id="highlights" class="level3">
-<h3 class="anchored" data-anchor-id="highlights">Highlights</h3>
-<p>In my research, I work towards having easy-to-use software that can be useful to scientists in my field as well as in others. Below is a list of tutorials for packages I developed in parallel with some of my projects.</p>
+
+<div class="no-row-height column-margin column-container"><div class="dissertation-aside">
+<section id="highlight" class="level3 aside-highlight">
+<h3 class="anchored" data-anchor-id="highlight">Highlight</h3>
+<p>I write easy-to-use software alongside my research, so that the methods can be picked up by scientists in my field and beyond. All software and tutorials I developed are accessible on this page.</p>
 </section>
-<section id="interactive-tools" class="level3">
-<h3 class="anchored" data-anchor-id="interactive-tools">Interactive tools</h3>
-<p><span class="forestgreen"><strong>Hubbell GLM Atlas</strong></span></p>
-<p><span style="font-size: 80%;">An interactive atlas of DNA barcode-based arthropod composition across 1,346 passive-sampling monitoring sites from the Global Malaise Trap Program. Click a site to explore order composition, seasonal phenology, rarefaction and site-exclusive BINs. Companion to <a href="research.html">Zito et al.&nbsp;(2026), <em>Predicting global biodiversity via Hubbell regression</em></a>.</span></p>
-<p><a href="https://hubbellglm.org/arthropod-biodiversity/" class="btn btn-outline-primary" role="button" target="_blank">Open the atlas</a></p>
+<p><a href="https://github.com/alessandrozito" class="btn btn-outline-primary" role="button">GitHub</a></p>
+</div></div><section id="interactive-tools" class="level3 center">
+<h3 class="center anchored" data-anchor-id="interactive-tools"><span class="blue">Interactive tools</span></h3>
 <hr>
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://hubbellglm.org/arthropod-biodiversity/"><img src="images/software/HubbellAtlas.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<div class="sw-body">
+<p><span class="forestgreen"><strong>Hubbell GLM Atlas</strong></span></p>
+<p>DNA barcode-based arthropod composition across 1,346 passive-sampling monitoring sites from the Global Malaise Trap Program. Click a site to explore order composition, seasonal phenology, rarefaction and site-exclusive BINs.</p>
+<p><span class="paper-links"><a href="https://hubbellglm.org/arthropod-biodiversity/">Open the atlas</a></span></p>
+</div>
+</div>
 </section>
-<section id="r-packages" class="level3">
-<h3 class="anchored" data-anchor-id="r-packages">R-packages</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 25.0%;justify-content: center;">
+<section id="r-packages" class="level3 center">
+<h3 class="center anchored" data-anchor-id="r-packages"><span class="blue">R packages</span></h3>
+<hr>
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://alessandrozito.github.io/SignaturePPF/vignette.html"><img src="images/software/SignaturePPF.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<div class="sw-body">
+<p><span class="harvardred"><strong>SignaturePPF</strong></span></p>
+<p>Poisson process factorization for mutational signature analysis. Models where mutations fall along the genome, not just how many, letting signature activity vary with genomic covariates.</p>
+<p><span class="paper-links"><a href="https://github.com/alessandrozito/SignaturePPF">GitHub</a> <a href="https://alessandrozito.github.io/SignaturePPF/vignette.html">Tutorial</a></span></p>
+</div>
+</div>
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://alessandrozito.github.io/HubbellGLM/"><img src="images/software/HubbellGLM.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<div class="sw-body">
+<p><span class="forestgreen"><strong>HubbellGLM</strong></span></p>
+<p>Hubbell regression for predicting biodiversity at unsampled locations, producing predicted species richness and accumulation curves for new sites from environmental covariates.</p>
+<p><span class="paper-links"><a href="https://alessandrozito.github.io/HubbellGLM/">Website</a></span></p>
+</div>
+</div>
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://alessandrozito.github.io/BayesANT/vignette.html"><img src="images/software/BayesANT.jpeg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-<div id="middle-column" class="quarto-layout-cell" style="flex-basis: 0.0%;justify-content: center;">
-
 </div>
-<div id="first-column" class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: center;">
-<p><span class="orange"><strong>BayesANT - BAYESiAn Nonparametric Taxonomic classifier</strong></span></p>
-<p><span style="font-size: 80%;">BayesANT is a DNA barcoding algorithm to classify DNA sequences within a hierarchical taxonomy, while allowing novel species to be discovered in the test set. See <a href="https://doi.org/10.1080/01621459.2022.2060835">Zito, Rigon, Dunson (2023) MEE.</a></span></p>
-<p><a href="https://github.com/alessandrozito/BayesANT" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="bayesant_github">GitHub</a> <a href="https://alessandrozito.github.io/BayesANT/vignette.html" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="bayesant_tutorial">Tutorial</a></p>
+<div class="sw-body">
+<p><span class="orange"><strong>BayesANT</strong></span></p>
+<p>BAYESiAn Nonparametric Taxonomic classifier. A DNA barcoding algorithm that classifies sequences within a hierarchical taxonomy while allowing novel species to be discovered in the test set.</p>
+<p><span class="paper-links"><a href="https://github.com/alessandrozito/BayesANT">GitHub</a> <a href="https://alessandrozito.github.io/BayesANT/vignette.html">Tutorial</a></span></p>
 </div>
 </div>
-</div>
-<hr>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 25.0%;justify-content: center;">
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://alessandrozito.github.io/BNPvegan/vignette.html"><img src="images/software/BNPvegan.jpeg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 0.0%;justify-content: center;">
-
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: center;">
-<p><span class="forestgreen">BNPvegan - Bayesian nonparametric methods for ecologists</span></p>
-<p><span style="font-size: 80%;">BNPvegan is an R-package that implements the methods described in <a href="https://doi.org/10.1111/2041-210X.14009">Zito, Rigon, Ovaskainen and Dunson (2023) JASA</a></span></p>
-<p><a href="https://github.com/alessandrozito/BNPvegan" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="bnpvegan_github">GitHub</a> <a href="https://alessandrozito.github.io/BNPvegan/vignette.html" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="bnpvegan_tutorial">Tutorial</a></p>
+<div class="sw-body">
+<p><span class="forestgreen"><strong>BNPvegan</strong></span></p>
+<p>Bayesian nonparametric methods for ecologists: species discovery, accumulation curves and estimates of how much diversity a sample has missed.</p>
+<p><span class="paper-links"><a href="https://github.com/alessandrozito/BNPvegan">GitHub</a> <a href="https://alessandrozito.github.io/BNPvegan/vignette.html">Tutorial</a></span></p>
 </div>
 </div>
-</div>
-<hr>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 25.0%;justify-content: center;">
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://github.com/alessandrozito/ConjugateDP"><img src="images/software/ConjugateDP.jpeg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 0.0%;justify-content: center;">
-
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: center;">
-<p><span class="blue">ConjugateDP - random number generator for the Stirling-gamma distribution</span></p>
-<p><span style="font-size: 80%;">ConjugateDP is an R-package that implements the random sampler for the Stirling-gamma distribution, which is the conjugate prior for the Dirichlet process precision parameter. See methods described in <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full">Zito, Rigon, Dunson (2024) BA</a></span></p>
-<p><a href="https://github.com/alessandrozito/ConjugateDP" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="ConjugateDP_github">GitHub</a></p>
+<div class="sw-body">
+<p><span class="blue"><strong>ConjugateDP</strong></span></p>
+<p>Random number generator for the Stirling-gamma distribution, the conjugate prior for the Dirichlet process precision parameter.</p>
+<p><span class="paper-links"><a href="https://github.com/alessandrozito/ConjugateDP">GitHub</a></span></p>
 </div>
 </div>
-</div>
-<hr>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 25.0%;justify-content: center;">
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://github.com/alessandrozito/CompressiveNMF"><img src="images/software/CompNMF.jpeg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 0.0%;justify-content: center;">
-
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: center;">
-<p><span class="harvardred">CompressiveNMF - Bayesian non-negative matrix factorization for mutational signature analysis</span></p>
-<p><span style="font-size: 80%;">This repo contains the code to reproduce the empirical results in <a href="https://arxiv.org/abs/2404.10974">Zito and Miller (2024+) arXiv</a></span></p>
-<p><a href="https://github.com/alessandrozito/CompressiveNMF" class="btn btn-outline-primary btn" role="button" data-toggle="tooltip" title="CompNMF_github">GitHub</a></p>
+<div class="sw-body">
+<p><span class="harvardred"><strong>CompressiveNMF</strong></span></p>
+<p>Compressive Bayesian non-negative matrix factorization for mutational signature analysis, with a prior that shrinks away spurious signatures.</p>
+<p><span class="paper-links"><a href="https://github.com/alessandrozito/CompressiveNMF">GitHub</a></span></p>
 </div>
 </div>
-</div>
-<hr>
-</section>
-<section id="other-projects" class="level3">
-<h3 class="anchored" data-anchor-id="other-projects">Other projects</h3>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-figure quarto-figure-center" style="flex-basis: 25.0%;justify-content: center;">
+<section id="other-projects" class="level4 left">
+<h4 class="left anchored" data-anchor-id="other-projects"><span class="blue">Other projects</span></h4>
+<div class="sw-item">
+<div class="sw-thumb">
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://arxiv.org/abs/2307.01000"><img src="images/software/Proximity.jpeg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 0.0%;justify-content: center;">
-
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 75.0%;justify-content: center;">
-<p><span class="gblue">P</span><span class="gred">r</span><span class="gyellow">o</span><span class="gblue">x</span><span class="ggreen">i</span><span class="gred">m</span><span class="gblue">ity</span> - <strong>Pareto optimal proxy metrics</strong></p>
-<p><span style="font-size: 80%;">This repo contains the code to reproduce the empirical results in <a href="https://arxiv.org/abs/2307.01000">Richarson et al.&nbsp;(2023), arXiv</a></span></p>
-<p>Property of Google LLC :)</p>
+<div class="sw-body">
+<p><span class="orange"><strong>Proximity</strong></span></p>
+<p>Pareto optimal proxy metrics. Code reproducing the empirical results in Zito et al.&nbsp;(2025). Property of Google LLC.</p>
+<p><span class="paper-links"><a href="https://arxiv.org/abs/2307.01000">arXiv</a></span></p>
 </div>
 </div>
-</div>
-<hr>
 
 
+</section>
 </section>
 
 <center>

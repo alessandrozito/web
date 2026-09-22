@@ -25,6 +25,19 @@ $font-family-sans-serif: "Noto", sans-serif !default;
   text-align: center;
 }
 
+/* `::: central` around a block (a button, an image) centres its contents.
+   Scoped to div. on purpose: `### Heading {.central}` puts the class on the
+   wrapping <section> too, and an unscoped rule would centre that whole
+   section's text, not just the heading. */
+div.central {
+  text-align: center;
+}
+
+/* The `.central h2, h3, h4` rule above does not cover h1. */
+h1.central {
+  text-align: center;
+}
+
 /* Heading alignment overrides.
    Quarto puts a heading's attribute class on BOTH the <h*> and the
    <section> that wraps it, so an unscoped `.left`/`.right` rule would
@@ -320,4 +333,107 @@ h1.right, h2.right, h3.right, h4.right, h5.right, h6.right {
    document, which reads as the pinned navbar and sticky columns dragging. */
 html {
   overscroll-behavior-y: none;
+}
+
+/* ======================================================================
+   Software page: image + description, side by side
+   ====================================================================== */
+.sw-item {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #DDE3EC;
+}
+
+.sw-item:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 767px) {
+  .sw-item {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.8rem;
+  }
+}
+
+.sw-thumb img {
+  width: 100%;
+  border: 1px solid #DDE3EC;
+  border-radius: 6px;
+  background: #FFFFFF;
+}
+
+.sw-body p {
+  margin-bottom: 0.55rem;
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.sw-body p:first-child {
+  font-size: 1.02rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Right-aligned motto opening the teaching philosophy */
+.motto {
+  text-align: right;
+  font-size: 1.08rem;
+  margin: 2.2rem 0 1.3rem;
+}
+
+/* Philosophy: text and painting side by side inside one wide block, so the
+   prose lines run long instead of being squeezed beside a margin column. */
+.philo {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 240px;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+@media (max-width: 991.98px) {
+  .philo {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.2rem;
+  }
+}
+
+.philo-art img {
+  width: 100%;
+  border: none;
+  /* Softened so a near-black etching does not pull the eye off the prose.
+     Returns to full strength on hover, since it links to the Met. */
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+.philo-art a:hover img {
+  opacity: 1;
+}
+
+.philo-art .art-credit {
+  text-align: left;
+}
+
+.art-credit {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 0.72rem;
+  line-height: 1.4;
+  color: #5B6169;
+}
+
+/* "Get involved" invitation on the Service page */
+.reach-out {
+  padding: 0.8rem 1.1rem;
+  margin: 1.4rem 0 0.5rem;
+  border-left: 3px solid #A51C30;
+  background: rgba(165, 28, 48, 0.06);
+  font-size: 0.95rem;
+}
+
+.reach-out p:last-child {
+  margin-bottom: 0;
 }

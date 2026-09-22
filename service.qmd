@@ -1,0 +1,51 @@
+### Service to the community {.central}
+
+::: sw-item
+::: sw-thumb
+[![](images/logos/jISBA.jpg)](https://j-isba.github.io/index.html)
+:::
+
+::: sw-body
+[**j-ISBA — Treasurer, 2025–2027**]{.blue}
+
+[j-ISBA](https://j-isba.github.io/index.html) is the junior section of the International Society for Bayesian Analysis, for students and researchers within five years of their degree. It runs conferences and sessions, provides networking and mentoring for early-career Bayesians, and connects them with the wider statistical community.
+
+I sit on the [j-ISBA board](https://j-isba.github.io/officers.html) as Treasurer, alongside managing the section's finances and membership.
+
+[[j-ISBA](https://j-isba.github.io/index.html) [Board](https://j-isba.github.io/officers.html) [BAYSM 2026](https://baysm2026.github.io/)]{.paper-links}
+:::
+:::
+
+#### Main activities {.left}
+
+-   **BAYSM — Bayesian Young Statisticians Meeting.** Organizer of BAYSM 2025 (held online) and [BAYSM 2026](https://baysm2026.github.io/) (Nagoya, Japan). BAYSM is j-ISBA's flagship conference, dedicated to junior Bayesian researchers.
+
+-   [**Blackwell-Rosenbluth Award**](https://j-isba.github.io/blackwell-rosenbluth.html)**.** Lead organizer of the 2025 and 2026 editions. The award, run jointly by ISBA and j-ISBA, recognises outstanding early-career researchers for their overall contribution to Bayesian statistics and to the community.
+
+-   **Treasurer.** Responsible for the section's finances across the 2025–2027 term.
+
+::: {.reach-out}
+**Get involved.** If you are a student or an early-career researcher and would like to take part in j-ISBA, please do reach out --- either to me, or to the section directly at [jisba.section\@gmail.com](mailto:jisba.section@gmail.com). We are always glad to hear from new members.
+:::
+
+------------------------------------------------------------------------
+
+### Editorial and referee work {.central}
+
+I have served as a reviewer for the following journals:
+
+-   *Journal of the American Statistical Association* (2)
+-   *Journal of Computational and Graphical Statistics* (1)
+-   *Journal of Machine Learning Research* (1)
+-   *Electronic Journal of Statistics* (2)
+-   *Bayesian Analysis* (2)
+-   *Computational Statistics & Data Analysis* (2)
+-   *The American Statistician* (1)
+-   *ACM Transactions on Probabilistic Machine Learning* (1)
+-   *Philosophical Transactions of the Royal Society A* (1)
+-   *Ecography* (1)
+-   *PeerJ* (1)
+
+I have also reviewed for the [SBSS Student Paper competition award at JSM 2025 and 2026](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587).
+
+
