@@ -30,7 +30,7 @@ website:
       - href: colabs.qmd
         text: Collaborators
       - href: artwork.qmd
-        text: alezitoart
+        text: Art gallery
     google-analytics: "G-BT2P82WGQJ"
     site-url: https://alessandrozito.github.io/web/
   body-footer: |
