@@ -437,3 +437,35 @@ html {
 .reach-out p:last-child {
   margin-bottom: 0;
 }
+
+
+/* Cumulative paper numbering, counted backwards so the earliest paper
+   (last before the conference proceedings) is 1. Sections without
+   `.counted` keep ordinary 1, 2, 3 numbering. */
+/* ONE number to maintain: total counted papers + 1. The counter is reset
+   once per page and never re-reset, so it runs continuously down through
+   every `.counted` section -- reordering or renaming sections changes
+   nothing. */
+main {
+  counter-reset: paper 13;
+}
+
+.paper-list.counted ol {
+  list-style: none;
+  padding-left: 2.3rem;
+}
+
+.paper-list.counted ol > li {
+  counter-increment: paper -1;
+  position: relative;
+}
+
+.paper-list.counted ol > li::before {
+  content: counter(paper) ".";
+  position: absolute;
+  left: -2.3rem;
+  width: 1.9rem;
+  text-align: right;
+  color: #5B6169;
+  font-variant-numeric: tabular-nums;
+}
