@@ -34,10 +34,11 @@ I sit on the [j-ISBA board](https://j-isba.github.io/officers.html) as Treasurer
 
 I have served as a reviewer for the following journals:
 
--   *Journal of the American Statistical Association* (2)
+-   *Journal of the American Statistical Association, T&M* (2)
 -   *Journal of Computational and Graphical Statistics* (1)
 -   *Journal of Machine Learning Research* (1)
 -   *Electronic Journal of Statistics* (2)
+-   *Annals of applied statistics* (3)
 -   *Bayesian Analysis* (2)
 -   *Computational Statistics & Data Analysis* (2)
 -   *The American Statistician* (1)

@@ -26,9 +26,9 @@ about:
 
 I am a Postdoctoral research fellow in Biostatistics at the [Harvard SPH](https://www.hsph.harvard.edu/biostatistics/) and the [Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers/data-science), where I work with Professors [Jeff Miller](https://jwmi.github.io/) and [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en). 
 
-My goal is to develop statistical methods to model [hidden phenomena]{.red} in biology and environmental science.
+My goal is to develop [probabilistic machine learning]{.blue} methods to model [hidden phenomena]{.harvardred}, with applications to biology, health, and environmental science.
 
-I am also an elected officer of [j-ISBA]{.blue}, the junior section of the International Society for Bayesian Analysis, supporting the community of young Bayesians across all continents.
+I am also a board member and treasurer of [j-ISBA]{.blue}, the junior section of the International Society for Bayesian Analysis, supporting the community of young Bayesians across all continents.
 
 
 #### Research areas {.left}
@@ -62,9 +62,9 @@ I am also an elected officer of [j-ISBA]{.blue}, the junior section of the Inter
 <div class="awards-box">
 For my research, I received
 <ul>
-<li><strong>Savage Award</strong> in Applied Methodology, JSM 2025</li>
-<li><strong>Lindley Prize</strong> (honorable mention) 2025</li>
-<li><strong>BEST award for Ph.D. student research</strong>, Dept. of Statistical Science, Duke University</li>
+<li>the <strong>2024 Savage Award</strong> in Applied Methodology, for my doctoral dissertation in Bayesian methods for ecology</li>
+<li>the <strong>Lindley Prize</strong> (honorable mention) 2025, for my work on the Logistic-beta processes</li>
+<li>the <strong>BEST Ph.D. student research award</strong>, Dept. of Statistical Science, Duke University</li>
 </ul>
 </div>
 ```
