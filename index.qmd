@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "Curriculum vitae"
-      href: files/resume_alezito.pdf
+      href: web/files/resume_alezito.pdf
     - icon: mortarboard-fill
       text: "Google Scholar"
       href: https://scholar.google.com/citations?user=ciOk2IQAAAAJ&hl=en
