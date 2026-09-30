@@ -28,7 +28,7 @@ website:
       - href: service.qmd
         text: Service
       - href: colabs.qmd
-        text: Collaborators
+        text: Mentoring
       - href: artwork.qmd
         text: Art gallery
     google-analytics: "G-BT2P82WGQJ"

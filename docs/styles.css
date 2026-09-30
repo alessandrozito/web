@@ -469,3 +469,45 @@ main {
   color: #5B6169;
   font-variant-numeric: tabular-nums;
 }
+
+/* Collaborator and mentee portraits: round, so newly added square crops
+   match the older photos that had the circle baked into the JPEG. */
+/* Mentee entries: portrait in its own column so the text block sits beside
+   it instead of wrapping raggedly underneath, which is what an inline image
+   was doing. */
+.person-item {
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: start;
+  margin-bottom: 1.6rem;
+}
+
+@media (max-width: 575px) {
+  .person-item {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.6rem;
+  }
+}
+
+img.person {
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.person-body p {
+  margin-bottom: 0.45rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.person-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* the award link keeps the amber tag look but stays clickable */
+a.award-tag {
+  text-decoration: none !important;
+}

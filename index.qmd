@@ -24,6 +24,8 @@ about:
 
 ## About me
 
+**On the 2026-2027 academic job market**
+
 I am a Postdoctoral research fellow in Biostatistics at the [Harvard SPH](https://www.hsph.harvard.edu/biostatistics/) and the [Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers/data-science), where I work with Professors [Jeff Miller](https://jwmi.github.io/) and [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani/). I obtained my Ph.D. in Statistical Science at [Duke University](https://stat.duke.edu/), under the supervision of Professor [David Dunson](https://scholar.google.co.uk/citations?user=KwEOawwAAAAJ&hl=en). 
 
 My goal is to develop [probabilistic machine learning]{.blue} methods to model [hidden phenomena]{.harvardred}, with applications to biology, health, and environmental science.
