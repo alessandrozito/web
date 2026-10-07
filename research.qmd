@@ -15,7 +15,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 #### [Statistical methodology]{.blue} {.left}
 
 ::: {.paper-list .counted}
-1.  [Zito, A.]{.me}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N., iBOL consortium, Ovaskainen O. and Dunson D. B. (2026+).<br>**Predicting global biodiversity via Hubbell regression**<br> [Submitted to]{.status} [Science]{.journal} [[bioRxiv](https://www.biorxiv.org/content/) [Atlas](https://hubbellglm.org/arthropod-biodiversity/)]{.paper-links}
+1.  [Zito, A.]{.me}, Rigon T., Roslin T., Niittynen, P., Hebert P. D. N., Zakharov, E. V., Ratnasingham, S., iBOL consortium, Ovaskainen O. and Dunson D. B. (2026+).<br>**Predicting global biodiversity via Hubbell regression**<br> [Submitted to]{.status} [Science]{.journal} [[bioRxiv](https://doi.org/10.64898/2026.05.29.728852) [Atlas](https://hubbellglm.org/)]{.paper-links}
 
 1.  [Zito, A.]{.me}, Parmigiani, G. and Miller, J. W. (2026+).<br>**Poisson process factorization for modeling mutational processes along cancer genomes**<br> [Journal of the American Statistical Association ACS]{.journal}, [Major Revision]{.status} [[arXiv](https://arxiv.org/abs/2510.26090) [GitHub](https://github.com/alessandrozito/SignaturePPF) [Tutorial](https://alessandrozito.github.io/SignaturePPF/vignette.html)]{.paper-links}
 
