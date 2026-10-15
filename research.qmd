@@ -35,7 +35,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 #### [Agentic AI, decision theory and experimentation]{.blue} {.left}
 
 ::: {.paper-list .counted}
-1.  Parmigiani, G. and [Zito, A.]{.me} (2026).<br>**Multiverse analysis, Bayesian decision theory and agentic AI: drawing connections**<br> [Invited submission to]{.status} [AStA Advances in Statistical Analysis]{.journal} [Manuscript available upon request]{.status}
+1.  Parmigiani, G. and [Zito, A.]{.me} (2026).<br>**Multiverse analysis, Bayesian decision theory and agentic AI: drawing connections**<br> [Invited submission to]{.status} [AStA Advances in Statistical Analysis]{.journal} [[Manuscript](files/ParmigianiZito_DecisionTheory_agenticAI.pdf)]{.paper-links}
 
 1.  [Zito, A.]{.me}, Greaves, D., Soriano, J. and Richardson, L. (2025).<br>**Pareto optimal proxy metrics**<br> [Applied Stochastic Models in Business and Industry]{.journal}, *41*: e70003 [[Pub](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70003) [arXiv](https://arxiv.org/pdf/2307.01000.pdf)]{.paper-links}
 :::
