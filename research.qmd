@@ -19,7 +19,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 1.  [Zito, A.]{.me}, Parmigiani, G. and Miller, J. W. (2026+).<br>**Poisson process factorization for modeling mutational processes along cancer genomes**<br> [Journal of the American Statistical Association ACS]{.journal}, [Major Revision]{.status} [[arXiv](https://arxiv.org/abs/2510.26090) [GitHub](https://github.com/alessandrozito/SignaturePPF) [Tutorial](https://alessandrozito.github.io/SignaturePPF/vignette.html)]{.paper-links}
 
-1.  [Zito, A.]{.me} and Miller, J. W. (2026+).<br>**Compressive Bayesian non-negative matrix factorization for mutational signature analysis**<br> [Biometrics]{.journal}, [minor revision]{.status} [[arXiv](https://arxiv.org/abs/2404.10974) [GitHub](https://github.com/alessandrozito/CompressiveNMF)]{.paper-links}
+1.  [Zito, A.]{.me} and Miller, J. W. (2026).<br>**Compressive Bayesian non-negative matrix factorization for mutational signature analysis**<br> [Biometrics]{.journal}, [in press]{.status} [[arXiv](https://arxiv.org/abs/2404.10974) [GitHub](https://github.com/alessandrozito/CompressiveNMF)]{.paper-links}
 
 1.  [Zito, A.]{.me}, Rigon, T., and Dunson, D. B. (2026).<br>**Bayesian nonparametric modeling of latent partitions via Stirling-gamma priors**<br> [Bayesian Analysis]{.journal}, *21*(1), 139--166 [[Pub](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Modeling-of-Latent-Partitions-via-Stirling-Gamma-Priors/10.1214/24-BA1463.full) [arXiv](https://arxiv.org/pdf/2306.02360.pdf) [R package](https://github.com/alessandrozito/ConjugateDP)]{.paper-links}
 

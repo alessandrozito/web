@@ -8,9 +8,9 @@ I view mentoring as the art of listening: through active sharing of ideas, conce
 :::
 :::
 
-#### [Mentoring activity]{.blue} {.center}
+#### [Students]{.blue} {.center}
 
-Over the years, I have had the pleasure of mentoring these students, from whom I have learned a lot.
+Over the years, I have had the pleasure of collaborating with these students, from whom I have learned a lot.
 
 ::: person-item
 ![](images/people/cathy_xue.jpeg){.person}
