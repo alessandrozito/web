@@ -470,6 +470,20 @@ main {
   font-variant-numeric: tabular-nums;
 }
 
+/* Proceedings and discussions count down on their own (4, 3, 2, 1) and
+   do not touch the paper counter. Maintain: number of entries + 1. */
+.paper-list.proc ol {
+  counter-reset: proc 5;
+}
+
+.paper-list.proc ol > li {
+  counter-increment: proc -1;
+}
+
+.paper-list.proc ol > li::before {
+  content: counter(proc) ".";
+}
+
 /* Collaborator and mentee portraits: round, so newly added square crops
    match the older photos that had the circle baked into the JPEG. */
 /* Mentee entries: portrait in its own column so the text block sits beside

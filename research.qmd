@@ -57,7 +57,7 @@ In recognition of my doctoral dissertation, I received the [Savage Award in Appl
 
 #### [Refereed conference proceedings and discussions]{.blue} {.left}
 
-::: paper-list
+::: {.paper-list .counted .proc}
 1.  Lee, C. J., [Zito, A.]{.me} and Dunson, D. B. (2026).<br>**Discussion to "Dependent Dirichlet Processes"** by MacEachern, S. N.<br> [Bayesian Analysis]{.journal} [[Pub](https://doi.org/10.1214/26-BA1610)]{.paper-links}
 
 1.  [Zito, A.]{.me}, Xue, C., and Miller, J. W. (2025).<br>**Accounting for Transcriptional Asymmetries in Mutational Signature Analysis Using Compressive Bayesian Non-negative Matrix Factorization**<br> In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin, S. (eds) [Statistics for Innovation IV. SIS 2025. Italian Statistical Society Series on Advances in Statistics]{.journal}. Springer, Cham
